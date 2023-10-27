@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="179" d="4201" w="1"><s ac="248">a</s><s t="540" ac="248"> former</s><s t="841" ac="243"> advisor</s><s t="1260" ac="248"> to</s><s t="1501" ac="248"> former</s><s t="1861" ac="248"> president</s></p>
+<p t="2210" d="2170" w="1" a="1">
+</p>
+<p t="2220" d="4200" w="1"><s ac="248">Donald</s><s t="419" ac="248"> Trump</s><s t="659" ac="248"> has</s><s t="1140" ac="248"> been</s><s t="1320" ac="248"> convicted</s><s t="1860" ac="248"> on</s></p>
+<p t="4370" d="2050" w="1" a="1">
+</p>
+<p t="4380" d="4380" w="1"><s ac="248">criminal</s><s t="360" ac="248"> charges</s><s t="840" ac="248"> of</s><s t="1140" ac="248"> contempt</s><s t="1620" ac="248"> of</s><s t="1680" ac="248"> congress</s></p>
+<p t="6410" d="2350" w="1" a="1">
+</p>
+<p t="6420" d="4380" w="1"><s ac="248">and</s><s t="540" ac="248"> record</s><s t="720" ac="239"> rainfalls</s><s t="1379" ac="248"> swept</s><s t="1679" ac="248"> across</s><s t="2040" ac="248"> Hong</s></p>
+<p t="8750" d="2050" w="1" a="1">
+</p>
+<p t="8760" d="4080" w="1"><s ac="248">Kong</s><s t="60" ac="242"> and</s><s t="419" ac="248"> parts</s><s t="660" ac="248"> of</s><s t="900" ac="248"> southern</s><s t="1200" ac="248"> China</s><s t="1560" ac="248"> on</s></p>
+<p t="10790" d="2050" w="1" a="1">
+</p>
+<p t="10800" d="3839" w="1"><s ac="248">Thursday</s><s t="180" ac="248"> night</s><s t="480" ac="248"> good</s><s t="1140" ac="248"> morning</s><s t="1320" ac="248"> I&#39;m</s><s t="1620" ac="246"> Corva</s></p>
+<p t="12830" d="1809" w="1" a="1">
+</p>
+<p t="12840" d="3539" w="1"><s ac="248">Coleman</s><s t="299" ac="240"> from</s><s t="540" ac="248"> NPR</s><s t="900" ac="248"> news</s><s t="1140" ac="248"> and</s><s t="1440" ac="248"> here</s><s t="1620" ac="248"> are</s></p>
+<p t="14629" d="1750" w="1" a="1">
+</p>
+<p t="14639" d="4201" w="1"><s ac="240">today&#39;s</s><s t="241" ac="248"> top</s><s t="540" ac="248"> stories</s></p>
+<p t="16369" d="2471" w="1" a="1">
+</p>
+<p t="16379" d="4560" w="1"><s ac="248">President</s><s t="480" ac="248"> Biden</s><s t="1081" ac="248"> arrives</s><s t="1441" ac="248"> in</s><s t="1681" ac="248"> New</s><s t="1801" ac="248"> Delhi</s><s t="2281" ac="248"> in</s></p>
+<p t="18830" d="2109" w="1" a="1">
+</p>
+<p t="18840" d="5040" w="1"><s ac="248">a</s><s t="180" ac="248"> few</s><s t="300" ac="248"> hours</s><s t="480" ac="248"> to</s><s t="960" ac="248"> attend</s><s t="1320" ac="248"> the</s><s t="1560" ac="248"> group</s><s t="1740" ac="248"> of</s><s t="1920" ac="248"> 20</s></p>
+<p t="20929" d="2951" w="1" a="1">
+</p>
+<p t="20939" d="5221" w="1"><s ac="248">Summit</s><s t="541" ac="248"> India</s><s t="1201" ac="248"> holds</s><s t="1680" ac="248"> the</s><s t="1861" ac="248"> rotating</s><s t="2221" ac="244"> G20</s></p>
+<p t="23870" d="2290" w="1" a="1">
+</p>
+<p t="23880" d="3960" w="1"><s ac="248">presidency</s><s t="720" ac="248"> this</s><s t="1080" ac="248"> year</s><s t="1260" ac="248"> and</s><s t="1800" ac="248"> India</s><s t="2159" ac="248"> is</s></p>
+<p t="26150" d="1690" w="1" a="1">
+</p>
+<p t="26160" d="4740" w="1"><s ac="248">looking</s><s t="180" ac="248"> to</s><s t="480" ac="248"> prove</s><s t="720" ac="248"> itself</s><s t="1020" ac="248"> as</s><s t="1379" ac="248"> a</s><s t="1560" ac="248"> world</s></p>
+<p t="27830" d="3070" w="1" a="1">
+</p>
+<p t="27840" d="4680" w="1"><s ac="248">leader</s><s t="480" ac="248"> but</s><s t="1019" ac="248"> sushmita</s><s t="1560" ac="230"> Pathak</s><s t="2160" ac="247"> reports</s><s t="2759" ac="224"> a</s><s t="2820" ac="229"> New</s></p>
+<p t="30890" d="1630" w="1" a="1">
+</p>
+<p t="30900" d="4260" w="1"><s ac="233">Delhi</s><s t="360" ac="248"> some</s><s t="539" ac="248"> of</s><s t="660" ac="248"> the</s><s t="779" ac="248"> preparations</s><s t="1260" ac="248"> have</s></p>
+<p t="32510" d="2650" w="1" a="1">
+</p>
+<p t="32520" d="4680" w="1"><s ac="245">drawn</s><s t="300" ac="248"> criticism</s><s t="840" ac="248"> New</s><s t="1620" ac="244"> Delhi</s><s t="2100" ac="248"> has</s><s t="2160" ac="248"> gotten</s><s t="2460" ac="248"> a</s></p>
+<p t="35150" d="2050" w="1" a="1">
+</p>
+<p t="35160" d="3960" w="1"><s ac="248">makeover</s><s t="300" ac="248"> in</s><s t="660" ac="248"> recent</s><s t="960" ac="248"> weeks</s><s t="1320" ac="248"> with</s><s t="1620" ac="248"> decorative</s></p>
+<p t="37190" d="1930" w="1" a="1">
+</p>
+<p t="37200" d="4859" w="1"><s ac="248">lights</s><s t="240" ac="248"> and</s><s t="660" ac="248"> water</s><s t="840" ac="241"> fountains</s><s t="1379" ac="243"> embellishing</s></p>
+<p t="39110" d="2949" w="1" a="1">
+</p>
+<p t="39120" d="5580" w="1"><s ac="248">its</s><s t="300" ac="248"> streets</s><s t="840" ac="226"> posters</s><s t="1560" ac="242"> about</s><s t="1800" ac="248"> the</s><s t="1980" ac="248"> G20</s><s t="2340" ac="248"> are</s><s t="2759" ac="248"> on</s></p>
+<p t="42049" d="2651" w="1" a="1">
+</p>
+<p t="42059" d="4500" w="1"><s ac="242">every</s><s t="241" ac="248"> corner</s><s t="721" ac="248"> but</s><s t="1381" ac="248"> as</s><s t="1500" ac="248"> the</s><s t="1680" ac="248"> city</s><s t="1801" ac="247"> gears</s><s t="2281" ac="248"> up</s><s t="2401" ac="248"> to</s></p>
+<p t="44690" d="1869" w="1" a="1">
+</p>
+<p t="44700" d="3900" w="1"><s ac="248">welcome</s><s t="120" ac="248"> world</s><s t="480" ac="248"> leaders</s><s t="960" ac="248"> officials</s><s t="1679" ac="248"> have</s></p>
+<p t="46549" d="2051" w="1" a="1">
+</p>
+<p t="46559" d="3721" w="1"><s ac="248">evicted</s><s t="481" ac="248"> slum</s><s t="781" ac="248"> dwellers</s><s t="1201" ac="248"> and</s><s t="1741" ac="248"> removed</s></p>
+<p t="48590" d="1690" w="1" a="1">
+</p>
+<p t="48600" d="4260" w="1"><s ac="248">Hawkers</s><s t="420" ac="248"> and</s><s t="600" ac="248"> Beggars</s><s t="1080" ac="248"> from</s><s t="1200" ac="248"> the</s><s t="1380" ac="248"> streets</s></p>
+<p t="50270" d="2590" w="1" a="1">
+</p>
+<p t="50280" d="4439" w="1"><s ac="248">green</s><s t="900" ac="248"> sheets</s><s t="1380" ac="248"> pitched</s><s t="1799" ac="248"> on</s><s t="1860" ac="248"> wooden</s><s t="2220" ac="244"> poles</s></p>
+<p t="52850" d="1869" w="1" a="1">
+</p>
+<p t="52860" d="4379" w="1"><s ac="248">along</s><s t="179" ac="248"> key</s><s t="480" ac="248"> roads</s><s t="900" ac="248"> hide</s><s t="1080" ac="248"> the</s><s t="1320" ac="248"> homeless</s><s t="1620" ac="248"> from</s></p>
+<p t="54709" d="2530" w="1" a="1">
+</p>
+<p t="54719" d="4320" w="1"><s ac="248">view</s><s t="201" ac="248"> this</s><s t="1201" ac="248"> has</s><s t="1320" ac="248"> prompted</s><s t="1741" ac="248"> criticism</s><s t="2160" ac="248"> from</s></p>
+<p t="57229" d="1810" w="1" a="1">
+</p>
+<p t="57239" d="4140" w="1"><s ac="248">opposition</s><s t="421" ac="248"> parties</s><s t="960" ac="248"> and</s><s t="1201" ac="248"> Civil</s><s t="1500" ac="248"> Society</s></p>
+<p t="59029" d="2350" w="1" a="1">
+</p>
+<p t="59039" d="4381" w="1"><s ac="248">groups</s><s t="481" ac="246"> who</s><s t="961" ac="248"> say</s><s t="1200" ac="248"> India</s><s t="1561" ac="248"> wants</s><s t="1860" ac="248"> to</s><s t="1921" ac="248"> be</s><s t="2040" ac="248"> a</s><s t="2160" ac="248"> voice</s></p>
+<p t="61369" d="2051" w="1" a="1">
+</p>
+<p t="61379" d="4801" w="1"><s ac="248">for</s><s t="241" ac="248"> the</s><s t="360" ac="248"> global</s><s t="660" ac="248"> South</s><s t="901" ac="248"> but</s><s t="1261" ac="248"> is</s><s t="1381" ac="233"> hiding</s><s t="1741" ac="248"> its</s></p>
+<p t="63410" d="2770" w="1" a="1">
+</p>
+<p t="63420" d="4620" w="1"><s ac="248">own</s><s t="60" ac="248"> problems</s><s t="479" ac="248"> with</s><s t="779" ac="243"> poverty</s><s t="1739" ac="248"> the</s><s t="2280" ac="248"> Summit</s><s t="2580" ac="248"> is</s></p>
+<p t="66170" d="1870" w="1" a="1">
+</p>
+<p t="66180" d="4380" w="1"><s ac="248">also</s><s t="240" ac="248"> expected</s><s t="600" ac="248"> to</s><s t="780" ac="248"> inconvenience</s><s t="1320" ac="248"> Delhi</s></p>
+<p t="68030" d="2530" w="1" a="1">
+</p>
+<p t="68040" d="4800" w="1"><s ac="248">residents</s><s t="420" ac="248"> food</s><s t="1200" ac="248"> delivery</s><s t="1740" ac="248"> is</s><s t="1980" ac="248"> barred</s><s t="2340" ac="248"> in</s></p>
+<p t="70550" d="2290" w="1" a="1">
+</p>
+<p t="70560" d="4260" w="1"><s ac="248">many</s><s t="180" ac="248"> parts</s><s t="419" ac="248"> traffic</s><s t="1140" ac="248"> is</s><s t="1440" ac="248"> heavily</s><s t="1739" ac="248"> restricted</s></p>
+<p t="72830" d="1990" w="1" a="1">
+</p>
+<p t="72840" d="4800" w="1"><s ac="248">and</s><s t="480" ac="248"> dozens</s><s t="840" ac="248"> of</s><s t="959" ac="248"> trains</s><s t="1319" ac="248"> and</s><s t="1500" ac="248"> flights</s><s t="1800" ac="248"> have</s></p>
+<p t="74810" d="2830" w="1" a="1">
+</p>
+<p t="74820" d="5520" w="1"><s ac="248">been</s><s t="119" ac="248"> canceled</s><s t="540" ac="248"> for</s><s t="1260" ac="248"> NPR</s><s t="1740" ac="248"> news</s><s t="1979" ac="248"> I&#39;m</s><s t="2280" ac="248"> sushmita</s></p>
+<p t="77630" d="2710" w="1" a="1">
+</p>
+<p t="77640" d="4979" w="1"><s ac="248">Pathak</s><s t="479" ac="248"> in</s><s t="780" ac="248"> Delhi</s><s t="1140" ac="248"> former</s><s t="1799" ac="248"> Trump</s><s t="1979" ac="248"> aide</s><s t="2339" ac="248"> Peter</s></p>
+<p t="80330" d="2289" w="1" a="1">
+</p>
+<p t="80340" d="4620" w="1"><s ac="248">Navarro</s><s t="540" ac="248"> has</s><s t="779" ac="248"> been</s><s t="900" ac="248"> convicted</s><s t="1440" ac="248"> on</s><s t="1680" ac="248"> two</s><s t="1860" ac="248"> counts</s></p>
+<p t="82609" d="2351" w="1" a="1">
+</p>
+<p t="82619" d="4320" w="1"><s ac="248">of</s><s t="121" ac="248"> criminal</s><s t="481" ac="248"> contempt</s><s t="1081" ac="248"> of</s><s t="1201" ac="248"> congress</s><s t="1621" ac="248"> he</s><s t="2221" ac="248"> was</s></p>
+<p t="84950" d="1989" w="1" a="1">
+</p>
+<p t="84960" d="3900" w="1"><s ac="248">charged</s><s t="360" ac="248"> with</s><s t="540" ac="248"> defying</s><s t="960" ac="150"> a</s><s t="1080" ac="245"> subpoena</s><s t="1560" ac="248"> from</s><s t="1799" ac="248"> the</s></p>
+<p t="86929" d="1931" w="1" a="1">
+</p>
+<p t="86939" d="4860" w="1"><s ac="248">house</s><s t="121" ac="248"> select</s><s t="540" ac="248"> committee</s><s t="1021" ac="248"> investigating</s><s t="1621" ac="248"> the</s></p>
+<p t="88850" d="2949" w="1" a="1">
+</p>
+<p t="88860" d="5460" w="1"><s ac="248">January</s><s t="420" ac="248"> 6th</s><s t="899" ac="245"> Insurrection</s><s t="1640" ac="248"> NPR&#39;s</s><s t="2640" ac="248"> Dustin</s></p>
+<p t="91789" d="2531" w="1" a="1">
+</p>
+<p t="91799" d="5101" w="1"><s ac="248">Jones</s><s t="301" ac="244"> reports</s><s t="901" ac="246"> Navarro</s><s t="1621" ac="248"> could</s><s t="1801" ac="241"> spend</s><s t="2101" ac="248"> up</s><s t="2341" ac="248"> to</s></p>
+<p t="94310" d="2590" w="1" a="1">
+</p>
+<p t="94320" d="4740" w="1"><s ac="248">two</s><s t="240" ac="248"> years</s><s t="479" ac="248"> behind</s><s t="1020" ac="248"> bars</s><s t="1500" ac="248"> it</s><s t="1979" ac="248"> took</s><s t="2220" ac="248"> less</s><s t="2400" ac="248"> than</s></p>
+<p t="96890" d="2170" w="1" a="1">
+</p>
+<p t="96900" d="4320" w="1"><s ac="248">four</s><s t="300" ac="248"> hours</s><s t="600" ac="248"> for</s><s t="899" ac="248"> a</s><s t="1020" ac="248"> federal</s><s t="1200" ac="197"> jury</s><s t="1500" ac="234"> to</s><s t="1740" ac="236"> issue</s><s t="2039" ac="248"> a</s></p>
+<p t="99050" d="2170" w="1" a="1">
+</p>
+<p t="99060" d="4260" w="1"><s ac="240">guilty</s><s t="300" ac="248"> verdict</s><s t="599" ac="248"> after</s><s t="1199" ac="248"> only</s><s t="1559" ac="248"> hearing</s><s t="1980" ac="248"> from</s></p>
+<p t="101210" d="2110" w="1" a="1">
+</p>
+<p t="101220" d="3120" w="1"><s ac="248">three</s><s t="180" ac="248"> Witnesses</s><s t="840" ac="248"> none</s><s t="1439" ac="248"> of</s><s t="1560" ac="248"> whom</s><s t="1740" ac="248"> came</s><s t="1920" ac="248"> from</s></p>
+<p t="103310" d="1030" w="1" a="1">
+</p>
+<p t="103320" d="3240" w="1"><s ac="248">the</s><s t="119" ac="248"> defense</s></p>
+<p t="104330" d="2230" w="1" a="1">
+</p>
+<p t="104340" d="4620" w="1"><s ac="248">after</s><s t="540" ac="248"> the</s><s t="779" ac="248"> verdict</s><s t="1080" ac="248"> was</s><s t="1260" ac="248"> issued</s><s t="1620" ac="248"> Peter</s></p>
+<p t="106550" d="2410" w="1" a="1">
+</p>
+<p t="106560" d="3480" w="1"><s ac="248">Navarro</s><s t="540" ac="248"> said</s><s t="720" ac="248"> he</s><s t="840" ac="248"> would</s><s t="960" ac="248"> be</s><s t="1080" ac="248"> exonerated</s><s t="1620" ac="248"> I</s><s t="2220" ac="248"> am</s></p>
+<p t="108950" d="1090" w="1" a="1">
+</p>
+<p t="108960" d="5460" w="1"><s ac="248">willing</s></p>
+<p t="110030" d="4390" w="1" a="1">
+</p>
+<p t="110040" d="8399" w="1"><s ac="248">to</s><s t="600" ac="248"> go</s><s t="719" ac="248"> to</s><s t="899" ac="248"> prison</s><s t="1280" ac="248"> to</s><s t="2280" ac="248"> settle</s><s t="2700" ac="248"> this</s><s t="3000" ac="248"> issue</s></p>
+<p t="114410" d="4029" w="1" a="1">
+</p>
+<p t="114420" d="6659" w="1"><s ac="248">I&#39;m</s><s t="540" ac="248"> willing</s><s t="900" ac="248"> to</s><s t="1080" ac="248"> do</s><s t="1320" ac="248"> that</s><s t="1559" ac="248"> but</s><s t="2339" ac="248"> I</s><s t="2519" ac="248"> also</s><s t="2820" ac="248"> know</s></p>
+<p t="118429" d="2650" w="1" a="1">
+</p>
+<p t="118439" d="5881" w="1"><s ac="248">that</s><s t="781" ac="248"> the</s><s t="1441" ac="248"> likelihood</s><s t="1860" ac="248"> of</s><s t="2040" ac="248"> me</s><s t="2220" ac="248"> going</s><s t="2401" ac="248"> to</s></p>
+<p t="121069" d="3251" w="1" a="1">
+</p>
+<p t="121079" d="5580" w="1"><s ac="248">prison</s><s t="381" ac="248"> is</s><s t="1381" ac="248"> relatively</s><s t="1981" ac="248"> small</s><s t="2220" ac="248"> because</s><s t="2641" ac="248"> we</s></p>
+<p t="124310" d="2349" w="1" a="1">
+</p>
+<p t="124320" d="3840" w="1"><s ac="248">are</s><s t="180" ac="248"> right</s><s t="479" ac="248"> on</s><s t="780" ac="248"> this</s><s t="1020" ac="248"> issue</s><s t="1380" ac="248"> Navarro</s><s t="2159" ac="248"> had</s></p>
+<p t="126649" d="1511" w="1" a="1">
+</p>
+<p t="126659" d="3841" w="1"><s ac="248">tried</s><s t="181" ac="248"> to</s><s t="301" ac="248"> have</s><s t="420" ac="248"> the</s><s t="600" ac="245"> charges</s><s t="960" ac="248"> dismissed</s></p>
+<p t="128150" d="2350" w="1" a="1">
+</p>
+<p t="128160" d="4320" w="1"><s ac="248">citing</s><s t="599" ac="247"> executive</s><s t="959" ac="248"> privilege</s><s t="1439" ac="248"> but</s><s t="1980" ac="248"> a</s><s t="2159" ac="248"> judge</s></p>
+<p t="130490" d="1990" w="1" a="1">
+</p>
+<p t="130500" d="4080" w="1"><s ac="248">ruled</s><s t="239" ac="248"> against</s><s t="360" ac="248"> that</s><s t="599" ac="248"> argument</s><s t="900" ac="248"> last</s><s t="1140" ac="248"> week</s></p>
+<p t="132470" d="2110" w="1" a="1">
+</p>
+<p t="132480" d="3899" w="1"><s ac="248">he</s><s t="479" ac="248"> is</s><s t="660" ac="182"> the</s><s t="780" ac="248"> second</s><s t="899" ac="248"> former</s><s t="1320" ac="248"> Trump</s><s t="1500" ac="248"> aide</s><s t="1860" ac="248"> to</s><s t="1979" ac="248"> be</s></p>
+<p t="134570" d="1809" w="1" a="1">
+</p>
+<p t="134580" d="3420" w="1"><s ac="248">convicted</s><s t="360" ac="248"> for</s><s t="540" ac="248"> failing</s><s t="900" ac="248"> to</s><s t="1080" ac="248"> cooperate</s><s t="1560" ac="248"> with</s></p>
+<p t="136369" d="1631" w="1" a="1">
+</p>
+<p t="136379" d="5281" w="1"><s ac="248">a</s><s t="121" ac="248"> congressional</s><s t="481" ac="247"> subpoena</s></p>
+<p t="137990" d="3670" w="1" a="1">
+</p>
+<p t="138000" d="5940" w="1"><s ac="248">Dustin</s><s t="540" ac="248"> Jones</s><s t="959" ac="248"> NPR</s><s t="1920" ac="248"> news</s><s t="2160" ac="248"> flash</s><s t="3060" ac="248"> floods</s></p>
+<p t="141650" d="2290" w="1" a="1">
+</p>
+<p t="141660" d="4439" w="1"><s ac="248">caused</s><s t="420" ac="248"> by</s><s t="659" ac="248"> unprecedented</s><s t="1500" ac="248"> rain</s><s t="1980" ac="248"> and</s></p>
+<p t="143930" d="2169" w="1" a="1">
+</p>
+<p t="143940" d="4740" w="1"><s ac="248">downpours</s><s t="659" ac="248"> have</s><s t="900" ac="248"> caused</s><s t="1379" ac="248"> widespread</s></p>
+<p t="146089" d="2591" w="1" a="1">
+</p>
+<p t="146099" d="5041" w="1"><s ac="248">disruption</s><s t="601" ac="248"> in</s><s t="841" ac="248"> Hong</s><s t="1140" ac="248"> Kong</s><s t="1261" ac="248"> and</s><s t="1921" ac="248"> in</s><s t="2161" ac="248"> parts</s><s t="2341" ac="248"> of</s></p>
+<p t="148670" d="2470" w="1" a="1">
+</p>
+<p t="148680" d="5760" w="1"><s ac="248">southern</s><s t="300" ac="248"> China</s><s t="720" ac="248"> we</s><s t="1620" ac="248"> have</s><s t="1740" ac="248"> more</s><s t="1980" ac="248"> from</s><s t="2279" ac="248"> the</s></p>
+<p t="151130" d="3310" w="1" a="1">
+</p>
+<p t="151140" d="5880" w="1"><s ac="248">BBC&#39;s</s><s t="660" ac="248"> Celia</s><s t="1200" ac="248"> Hatton</s><s t="1679" ac="248"> Hong</s><s t="2580" ac="248"> Kong</s><s t="2700" ac="248"> recorded</s></p>
+<p t="154430" d="2590" w="1" a="1">
+</p>
+<p t="154440" d="5879" w="1"><s ac="248">its</s><s t="360" ac="248"> highest</s><s t="659" ac="248"> rainfall</s><s t="1260" ac="248"> since</s><s t="1620" ac="248"> records</s><s t="2280" ac="248"> began</s></p>
+<p t="157010" d="3309" w="1" a="1">
+</p>
+<p t="157020" d="5460" w="1"><s ac="248">more</s><s t="840" ac="248"> than</s><s t="1020" ac="248"> 15</s><s t="1500" ac="248"> centimeters</s><s t="2460" ac="248"> in</s><s t="2820" ac="248"> a</s><s t="3000" ac="248"> single</s></p>
+<p t="160309" d="2171" w="1" a="1">
+</p>
+<p t="160319" d="3901" w="1"><s ac="248">hour</s><s t="321" ac="248"> Millions</s><s t="1321" ac="248"> have</s><s t="1500" ac="248"> been</s><s t="1681" ac="248"> forced</s><s t="1981" ac="248"> to</s></p>
+<p t="162470" d="1750" w="1" a="1">
+</p>
+<p t="162480" d="3960" w="1"><s ac="248">shelter</s><s t="360" ac="248"> in</s><s t="660" ac="248"> Hong</s><s t="899" ac="248"> Kong</s><s t="1020" ac="248"> and</s><s t="1380" ac="248"> the</s><s t="1619" ac="248"> Chinese</s></p>
+<p t="164210" d="2230" w="1" a="1">
+</p>
+<p t="164220" d="5640" w="1"><s ac="248">mainland&#39;s</s><s t="720" ac="248"> neighboring</s><s t="1140" ac="248"> Hub</s><s t="1320" ac="248"> of</s><s t="1560" ac="248"> Shenzhen</s></p>
+<p t="166430" d="3430" w="1" a="1">
+</p>
+<p t="166440" d="6240" w="1"><s ac="248">in</s><s t="840" ac="248"> Hong</s><s t="1019" ac="248"> Kong</s><s t="1140" ac="248"> roads</s><s t="2100" ac="248"> were</s><s t="2340" ac="248"> turned</s><s t="2760" ac="248"> to</s><s t="2879" ac="248"> Rivers</s></p>
+<p t="169850" d="2830" w="1" a="1">
+</p>
+<p t="169860" d="5340" w="1"><s ac="248">metro</s><s t="540" ac="248"> stations</s><s t="1260" ac="248"> and</s><s t="1560" ac="248"> shopping</s><s t="1800" ac="248"> malls</s><s t="2340" ac="248"> have</s></p>
+<p t="172670" d="2530" w="1" a="1">
+</p>
+<p t="172680" d="5040" w="1"><s ac="248">been</s><s t="180" ac="248"> flooded</s><s t="600" ac="248"> with</s><s t="839" ac="248"> water</s><s t="1080" ac="248"> more</s><s t="2040" ac="248"> than</s><s t="2220" ac="248"> 80</s></p>
+<p t="175190" d="2530" w="1" a="1">
+</p>
+<p t="175200" d="4319" w="1"><s ac="248">people</s><s t="420" ac="248"> sought</s><s t="840" ac="248"> hospital</s><s t="1259" ac="248"> treatment</s><s t="1740" ac="248"> and</s></p>
+<p t="177710" d="1809" w="1" a="1">
+</p>
+<p t="177720" d="4440" w="1"><s ac="248">several</s><s t="360" ac="248"> needed</s><s t="780" ac="248"> to</s><s t="900" ac="248"> be</s><s t="1019" ac="248"> pulled</s><s t="1379" ac="248"> from</s><s t="1560" ac="248"> their</s></p>
+<p t="179509" d="2651" w="1" a="1">
+</p>
+<p t="179519" d="4500" w="1"><s ac="248">cars</s><s t="481" ac="248"> all</s><s t="1261" ac="248"> schools</s><s t="1681" ac="248"> have</s><s t="1860" ac="248"> been</s><s t="2041" ac="248"> closed</s><s t="2401" ac="248"> and</s></p>
+<p t="182150" d="1869" w="1" a="1">
+</p>
+<p t="182160" d="4439" w="1"><s ac="248">the</s><s t="120" ac="248"> authorities</s><s t="480" ac="248"> are</s><s t="840" ac="248"> urging</s><s t="1020" ac="248"> employers</s><s t="1500" ac="248"> to</s></p>
+<p t="184009" d="2590" w="1" a="1">
+</p>
+<p t="184019" d="5521" w="1"><s ac="248">allow</s><s t="360" ac="248"> their</s><s t="781" ac="248"> staff</s><s t="961" ac="248"> to</s><s t="1561" ac="248"> remain</s><s t="1800" ac="248"> at</s><s t="2041" ac="248"> home</s><s t="2220" ac="248"> the</s></p>
+<p t="186589" d="2951" w="1" a="1">
+</p>
+<p t="186599" d="6801" w="1"><s ac="248">BBC&#39;s</s><s t="661" ac="248"> Celia</s><s t="1261" ac="147"> Hatton</s><s t="1741" ac="248"> reporting</s></p>
+<p t="189530" d="3870" w="1" a="1">
+</p>
+<p t="189540" d="3860" w="1"><s ac="247">you&#39;re</s><s t="540" ac="248"> listening</s><s t="960" ac="248"> to</s><s t="1320" ac="248"> NPR</s></p>
+</body>
+</timedtext>

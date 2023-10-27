@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="0" d="4440" w="1"><s ac="248">a</s><s t="599" ac="248"> suspect</s><s t="960" ac="248"> has</s><s t="1260" ac="248"> been</s><s t="1500" ac="248"> arrested</s><s t="1979" ac="248"> after</s></p>
+<p t="2149" d="2291" w="1" a="1">
+</p>
+<p t="2159" d="4740" w="1"><s ac="248">Serbia&#39;s</s><s t="841" ac="248"> second</s><s t="1081" ac="248"> mass</s><s t="1441" ac="248"> shooting</s><s t="1740" ac="248"> in</s><s t="2100" ac="248"> two</s></p>
+<p t="4430" d="2469" w="1" a="1">
+</p>
+<p t="4440" d="4860" w="1"><s ac="248">days</s><s t="240" ac="248"> and</s><s t="1200" ac="248"> sentencing</s><s t="1740" ac="248"> will</s><s t="2040" ac="248"> likely</s><s t="2280" ac="248"> begin</s></p>
+<p t="6889" d="2411" w="1" a="1">
+</p>
+<p t="6899" d="4021" w="1"><s ac="248">this</s><s t="360" ac="248"> summer</s><s t="601" ac="248"> for</s><s t="1200" ac="248"> convictions</s><s t="1681" ac="248"> related</s><s t="2160" ac="248"> to</s></p>
+<p t="9290" d="1630" w="1" a="1">
+</p>
+<p t="9300" d="4560" w="1"><s ac="248">the</s><s t="180" ac="248"> January</s><s t="540" ac="248"> 6th</s><s t="1020" ac="248"> Siege</s><s t="1259" ac="248"> of</s><s t="1379" ac="248"> the</s><s t="1500" ac="211"> capital</s></p>
+<p t="10910" d="2950" w="1" a="1">
+</p>
+<p t="10920" d="5699" w="1"><s ac="243">good</s><s t="960" ac="248"> morning</s><s t="1139" ac="248"> I&#39;m</s><s t="1500" ac="248"> Nora</s><s t="1860" ac="219"> Rahm</s><s t="2160" ac="242"> from</s><s t="2339" ac="247"> NPR</s><s t="2759" ac="248"> news</s></p>
+<p t="13850" d="2769" w="1" a="1">
+</p>
+<p t="13860" d="5339" w="1"><s ac="248">and</s><s t="720" ac="248"> here</s><s t="779" ac="231"> are</s><s t="960" ac="247"> today&#39;s</s><s t="1140" ac="248"> top</s><s t="1500" ac="246"> stories</s></p>
+<p t="16609" d="2590" w="1" a="1">
+</p>
+<p t="16619" d="4920" w="1"><s ac="248">police</s><s t="420" ac="248"> in</s><s t="721" ac="248"> Serbia</s><s t="1141" ac="248"> have</s><s t="1500" ac="248"> arrested</s><s t="1981" ac="248"> a</s><s t="2101" ac="248"> suspect</s></p>
+<p t="19189" d="2350" w="1" a="1">
+</p>
+<p t="19199" d="5041" w="1"><s ac="248">in</s><s t="301" ac="248"> a</s><s t="481" ac="248"> series</s><s t="601" ac="248"> of</s><s t="840" ac="248"> shootings</s><s t="1321" ac="248"> that</s><s t="1861" ac="248"> killed</s></p>
+<p t="21529" d="2711" w="1" a="1">
+</p>
+<p t="21539" d="4861" w="1"><s ac="248">eight</s><s t="181" ac="248"> people</s><s t="421" ac="248"> and</s><s t="721" ac="248"> wounded</s><s t="1141" ac="248"> at</s><s t="1320" ac="248"> least</s><s t="1441" ac="248"> 14.</s><s t="2160" ac="248"> it</s></p>
+<p t="24230" d="2170" w="1" a="1">
+</p>
+<p t="24240" d="5640" w="1"><s ac="248">was</s><s t="180" ac="248"> the</s><s t="420" ac="248"> nation&#39;s</s><s t="840" ac="248"> second</s><s t="1080" ac="248"> mass</s><s t="1440" ac="248"> shooting</s><s t="1740" ac="248"> in</s></p>
+<p t="26390" d="3490" w="1" a="1">
+</p>
+<p t="26400" d="4680" w="1"><s ac="248">two</s><s t="119" ac="248"> days</s><s t="680" ac="248"> NPR&#39;s</s><s t="1680" ac="248"> Rob</s><s t="1920" ac="248"> Schmitz</s><s t="2340" ac="248"> reports</s><s t="2940" ac="248"> in</s><s t="3299" ac="248"> a</s></p>
+<p t="29870" d="1210" w="1" a="1">
+</p>
+<p t="29880" d="3179" w="1"><s ac="248">statement</s><s t="180" ac="248"> police</s><s t="479" ac="248"> said</s><s t="719" ac="248"> the</s><s t="840" ac="248"> man</s><s t="1020" ac="248"> was</s></p>
+<p t="31070" d="1989" w="1" a="1">
+</p>
+<p t="31080" d="4800" w="1"><s ac="248">arrested</s><s t="480" ac="248"> near</s><s t="660" ac="248"> the</s><s t="900" ac="248"> central</s><s t="1080" ac="248"> Serbian</s><s t="1679" ac="248"> town</s></p>
+<p t="33049" d="2831" w="1" a="1">
+</p>
+<p t="33059" d="5281" w="1"><s ac="248">of</s><s t="201" ac="248"> kragallevach</s><s t="1201" ac="248"> about</s><s t="1561" ac="248"> 60</s><s t="1921" ac="248"> miles</s><s t="2281" ac="248"> south</s><s t="2641" ac="248"> of</s></p>
+<p t="35870" d="2470" w="1" a="1">
+</p>
+<p t="35880" d="4440" w="1"><s ac="248">the</s><s t="120" ac="248"> capital</s><s t="240" ac="248"> Belgrade</s><s t="900" ac="248"> the</s><s t="1560" ac="248"> gunman</s><s t="1859" ac="248"> fired</s><s t="2280" ac="248"> an</s></p>
+<p t="38330" d="1990" w="1" a="1">
+</p>
+<p t="38340" d="4200" w="1"><s ac="248">automatic</s><s t="540" ac="248"> weapon</s><s t="899" ac="248"> from</s><s t="1200" ac="248"> a</s><s t="1379" ac="248"> moving</s><s t="1680" ac="248"> vehicle</s></p>
+<p t="40310" d="2230" w="1" a="1">
+</p>
+<p t="40320" d="3960" w="1"><s ac="248">in</s><s t="239" ac="248"> three</s><s t="480" ac="248"> villages</s><s t="899" ac="248"> and</s><s t="1259" ac="248"> was</s><s t="1440" ac="248"> arrested</s><s t="1919" ac="248"> after</s></p>
+<p t="42530" d="1750" w="1" a="1">
+</p>
+<p t="42540" d="4620" w="1"><s ac="248">an</s><s t="300" ac="248"> all-night</s><s t="600" ac="248"> search</s><s t="839" ac="248"> by</s><s t="1199" ac="248"> hundreds</s><s t="1620" ac="248"> of</s></p>
+<p t="44270" d="2890" w="1" a="1">
+</p>
+<p t="44280" d="5160" w="1"><s ac="248">police</s><s t="180" ac="248"> the</s><s t="1140" ac="248"> shooting</s><s t="1320" ac="248"> came</s><s t="1740" ac="248"> a</s><s t="2099" ac="248"> day</s><s t="2220" ac="248"> after</s><s t="2580" ac="248"> a</s></p>
+<p t="47150" d="2290" w="1" a="1">
+</p>
+<p t="47160" d="4739" w="1"><s ac="248">13-year-old</s><s t="480" ac="248"> boy</s><s t="780" ac="248"> killed</s><s t="1379" ac="248"> nine</s><s t="1680" ac="248"> people</s><s t="1860" ac="248"> at</s><s t="2160" ac="248"> a</s></p>
+<p t="49430" d="2469" w="1" a="1">
+</p>
+<p t="49440" d="4139" w="1"><s ac="248">Belgrade</s><s t="360" ac="248"> school</s><s t="599" ac="248"> on</s><s t="959" ac="248"> Wednesday</s><s t="1459" ac="248"> Serbia&#39;s</s></p>
+<p t="51889" d="1690" w="1" a="1">
+</p>
+<p t="51899" d="4140" w="1"><s ac="248">interior</s><s t="361" ac="248"> Minister</s><s t="660" ac="248"> called</s><s t="961" ac="248"> this</s><s t="1381" ac="248"> week&#39;s</s></p>
+<p t="53569" d="2470" w="1" a="1">
+</p>
+<p t="53579" d="4500" w="1"><s ac="248">second</s><s t="241" ac="248"> shooting</s><s t="601" ac="248"> a</s><s t="1081" ac="248"> terrorist</s><s t="1441" ac="248"> act</s><s t="1681" ac="248"> and</s><s t="2341" ac="248"> it</s></p>
+<p t="56029" d="2050" w="1" a="1">
+</p>
+<p t="56039" d="4081" w="1"><s ac="248">came</s><s t="180" ac="248"> as</s><s t="360" ac="248"> a</s><s t="540" ac="248"> nation</s><s t="781" ac="248"> was</s><s t="1141" ac="248"> coming</s><s t="1381" ac="248"> to</s><s t="1621" ac="248"> terms</s></p>
+<p t="58069" d="2051" w="1" a="1">
+</p>
+<p t="58079" d="4500" w="1"><s ac="248">with</s><s t="241" ac="248"> its</s><s t="541" ac="248"> worst</s><s t="781" ac="248"> mass</s><s t="901" ac="248"> shooting</s><s t="1201" ac="248"> in</s><s t="1620" ac="248"> a</s><s t="1741" ac="248"> decade</s></p>
+<p t="60110" d="2469" w="1" a="1">
+</p>
+<p t="60120" d="4439" w="1"><s ac="248">students</s><s t="959" ac="248"> many</s><s t="1200" ac="248"> wearing</s><s t="1619" ac="248"> black</s><s t="1800" ac="248"> and</s><s t="2040" ac="248"> carrying</s></p>
+<p t="62569" d="1990" w="1" a="1">
+</p>
+<p t="62579" d="3781" w="1"><s ac="248">flowers</s><s t="300" ac="248"> filled</s><s t="960" ac="248"> streets</s><s t="1261" ac="248"> around</s><s t="1440" ac="248"> Belgrade</s></p>
+<p t="64549" d="1811" w="1" a="1">
+</p>
+<p t="64559" d="4201" w="1"><s ac="248">as</s><s t="240" ac="248"> they</s><s t="420" ac="248"> paid</s><s t="541" ac="248"> homage</s><s t="960" ac="248"> to</s><s t="1201" ac="248"> their</s><s t="1380" ac="248"> murdered</s></p>
+<p t="66350" d="2410" w="1" a="1">
+</p>
+<p t="66360" d="4439" w="1"><s ac="248">peers</s><s t="360" ac="248"> the</s><s t="1140" ac="248"> same</s><s t="1320" ac="248"> day</s><s t="1500" ac="248"> Serbian</s><s t="1980" ac="248"> authorities</s></p>
+<p t="68750" d="2049" w="1" a="1">
+</p>
+<p t="68760" d="4620" w="1"><s ac="248">called</s><s t="300" ac="248"> to</s><s t="539" ac="248"> boost</s><s t="780" ac="248"> gun</s><s t="1140" ac="248"> control</s><s t="1380" ac="248"> throughout</s></p>
+<p t="70789" d="2591" w="1" a="1">
+</p>
+<p t="70799" d="5640" w="1"><s ac="248">the</s><s t="241" ac="248"> country</s><s t="421" ac="248"> Rob</s><s t="1261" ac="248"> Schmitz</s><s t="1741" ac="182"> and</s><s t="2101" ac="119"> PR</s><s t="2281" ac="179"> news</s></p>
+<p t="73370" d="3069" w="1" a="1">
+</p>
+<p t="73380" d="5580" w="1"><s ac="244">Berlin</s><s t="779" ac="248"> a</s><s t="1559" ac="248"> judge</s><s t="1860" ac="248"> says</s><s t="2160" ac="246"> the</s><s t="2400" ac="248"> former</s><s t="2700" ac="248"> leader</s><s t="2940" ac="248"> of</s></p>
+<p t="76429" d="2531" w="1" a="1">
+</p>
+<p t="76439" d="4860" w="1"><s ac="245">the</s><s t="121" ac="248"> proud</s><s t="781" ac="248"> boys</s><s t="1021" ac="248"> and</s><s t="1500" ac="248"> four</s><s t="1680" ac="248"> other</s><s t="1921" ac="248"> members</s><s t="2281" ac="248"> of</s></p>
+<p t="78950" d="2349" w="1" a="1">
+</p>
+<p t="78960" d="5460" w="1"><s ac="248">the</s><s t="180" ac="248"> extremist</s><s t="659" ac="248"> group</s><s t="900" ac="248"> may</s><s t="1620" ac="248"> be</s><s t="1799" ac="248"> sentenced</s></p>
+<p t="81289" d="3131" w="1" a="1">
+</p>
+<p t="81299" d="6000" w="1"><s ac="248">this</s><s t="241" ac="248"> summer</s><s t="680" ac="248"> NPR&#39;s</s><s t="1680" ac="248"> Carrie</s><s t="2101" ac="248"> Johnson</s><s t="2281" ac="248"> reports</s></p>
+<p t="84410" d="2889" w="1" a="1">
+</p>
+<p t="84420" d="5040" w="1"><s ac="248">on</s><s t="420" ac="248"> Fallout</s><s t="839" ac="248"> from</s><s t="1559" ac="248"> the</s><s t="1680" ac="248"> seditious</s><s t="2160" ac="248"> conspiracy</s></p>
+<p t="87289" d="2171" w="1" a="1">
+</p>
+<p t="87299" d="3960" w="1"><s ac="248">case</s><s t="241" ac="248"> judge</s><s t="841" ac="248"> Timothy</s><s t="1261" ac="248"> Kelly</s><s t="1441" ac="248"> is</s><s t="1860" ac="248"> asking</s></p>
+<p t="89450" d="1809" w="1" a="1">
+</p>
+<p t="89460" d="4140" w="1"><s ac="248">prosecutors</s><s t="600" ac="248"> and</s><s t="780" ac="248"> defense</s><s t="1080" ac="248"> lawyers</s><s t="1440" ac="248"> to</s><s t="1620" ac="248"> plan</s></p>
+<p t="91249" d="2351" w="1" a="1">
+</p>
+<p t="91259" d="4860" w="1"><s ac="248">for</s><s t="301" ac="248"> extensive</s><s t="1141" ac="248"> sentencing</s><s t="1680" ac="248"> hearings</s><s t="2101" ac="248"> this</s></p>
+<p t="93590" d="2529" w="1" a="1">
+</p>
+<p t="93600" d="5879" w="1"><s ac="248">summer</s><s t="240" ac="248"> a</s><s t="1019" ac="248"> federal</s><s t="1199" ac="248"> jury</s><s t="1500" ac="248"> in</s><s t="1740" ac="248"> Washington</s><s t="1920" ac="248"> DC</s></p>
+<p t="96109" d="3370" w="1" a="1">
+</p>
+<p t="96119" d="5761" w="1"><s ac="248">convicted</s><s t="960" ac="248"> Enrique</s><s t="1500" ac="248"> tario</s><s t="2101" ac="248"> Joe</s><s t="2460" ac="248"> Biggs</s><s t="2941" ac="248"> Ethan</s></p>
+<p t="99469" d="2411" w="1" a="1">
+</p>
+<p t="99479" d="4500" w="1"><s ac="248">Nordeen</s><s t="541" ac="248"> and</s><s t="780" ac="248"> Zach</s><s t="1081" ac="248"> reel</s><s t="1441" ac="248"> of</s><s t="1861" ac="248"> seditious</s></p>
+<p t="101870" d="2109" w="1" a="1">
+</p>
+<p t="101880" d="5160" w="1"><s ac="248">conspiracy</s><s t="779" ac="248"> stemming</s><s t="1500" ac="248"> from</s><s t="1739" ac="248"> the</s><s t="1919" ac="248"> capital</s></p>
+<p t="103969" d="3071" w="1" a="1">
+</p>
+<p t="103979" d="5100" w="1"><s ac="248">Riot</s><s t="721" ac="248"> another</s><s t="1441" ac="248"> defendant</s><s t="2041" ac="248"> Dominic</s><s t="2581" ac="219"> pizola</s></p>
+<p t="107030" d="2049" w="1" a="1">
+</p>
+<p t="107040" d="4259" w="1"><s ac="248">was</s><s t="480" ac="248"> acquitted</s><s t="899" ac="248"> of</s><s t="1020" ac="243"> sedition</s><s t="1380" ac="248"> but</s><s t="1619" ac="243"> faces</s></p>
+<p t="109069" d="2230" w="1" a="1">
+</p>
+<p t="109079" d="5040" w="1"><s ac="248">punishment</s><s t="421" ac="248"> on</s><s t="661" ac="248"> robbery</s><s t="1261" ac="248"> conspiracy</s><s t="1981" ac="248"> and</s></p>
+<p t="111289" d="2830" w="1" a="1">
+</p>
+<p t="111299" d="4621" w="1"><s ac="248">obstruction</s><s t="360" ac="248"> charges</s><s t="1081" ac="248"> the</s><s t="1801" ac="248"> verdicts</s><s t="2221" ac="248"> Mark</s><s t="2401" ac="248"> a</s></p>
+<p t="114109" d="1811" w="1" a="1">
+</p>
+<p t="114119" d="3960" w="1"><s ac="246">significant</s><s t="540" ac="248"> victory</s><s t="960" ac="248"> for</s><s t="1261" ac="248"> the</s><s t="1441" ac="248"> justice</s></p>
+<p t="115910" d="2169" w="1" a="1">
+</p>
+<p t="115920" d="4860" w="1"><s ac="248">department</s><s t="239" ac="248"> which</s><s t="1080" ac="248"> has</s><s t="1320" ac="248"> now</s><s t="1500" ac="248"> secured</s><s t="1979" ac="248"> more</s></p>
+<p t="118069" d="2711" w="1" a="1">
+</p>
+<p t="118079" d="4741" w="1"><s ac="248">than</s><s t="180" ac="248"> 600</s><s t="781" ac="248"> convictions</s><s t="1441" ac="248"> tied</s><s t="2101" ac="248"> to</s><s t="2281" ac="248"> The</s><s t="2400" ac="248"> Siege</s></p>
+<p t="120770" d="2050" w="1" a="1">
+</p>
+<p t="120780" d="4920" w="1"><s ac="239">on</s><s t="180" ac="248"> the</s><s t="360" ac="248"> U.S</s><s t="659" ac="248"> Capitol</s><s t="1140" ac="248"> attorney</s><s t="1680" ac="248"> general</s></p>
+<p t="122810" d="2890" w="1" a="1">
+</p>
+<p t="122820" d="5460" w="1"><s ac="248">Merritt</s><s t="540" ac="245"> Garland</s><s t="960" ac="248"> says</s><s t="1320" ac="248"> that</s><s t="1979" ac="248"> work</s><s t="2159" ac="248"> continues</s></p>
+<p t="125690" d="2590" w="1" a="1">
+</p>
+<p t="125700" d="4979" w="1"><s ac="212">Carrie</s><s t="900" ac="242"> Johnson</s><s t="1080" ac="248"> NPR</s><s t="1800" ac="248"> News</s><s t="1980" ac="248"> Washington</s></p>
+<p t="128270" d="2409" w="1" a="1">
+</p>
+<p t="128280" d="5220" w="1"><s ac="248">police</s><s t="839" ac="248"> have</s><s t="1140" ac="248"> made</s><s t="1380" ac="248"> an</s><s t="1560" ac="248"> arrest</s><s t="1740" ac="248"> in</s><s t="2100" ac="248"> a</s><s t="2280" ac="248"> series</s></p>
+<p t="130669" d="2831" w="1" a="1">
+</p>
+<p t="130679" d="4321" w="1"><s ac="248">of</s><s t="300" ac="246"> stabbings</s><s t="901" ac="248"> that</s><s t="1261" ac="248"> killed</s><s t="1681" ac="248"> two</s><s t="1861" ac="248"> people</s><s t="2101" ac="248"> and</s></p>
+<p t="133490" d="1510" w="1" a="1">
+</p>
+<p t="133500" d="4980" w="1"><s ac="248">terrorized</s><s t="540" ac="209"> the</s><s t="660" ac="248"> University</s><s t="840" ac="246"> of</s><s t="1200" ac="232"> California</s></p>
+<p t="134990" d="3490" w="1" a="1">
+</p>
+<p t="135000" d="5280" w="1"><s ac="248">Davis</s><s t="540" ac="248"> for</s><s t="1080" ac="248"> days</s><s t="1560" ac="248"> a</s><s t="2280" ac="248"> 21</s><s t="2459" ac="218"> year</s><s t="2760" ac="218"> old</s><s t="2940" ac="248"> man</s><s t="3120" ac="246"> a</s></p>
+<p t="138470" d="1810" w="1" a="1">
+</p>
+<p t="138480" d="4440" w="1"><s ac="248">former</s><s t="300" ac="244"> student</s><s t="540" ac="248"> there</s><s t="839" ac="248"> is</s><s t="1380" ac="248"> believed</s></p>
+<p t="140270" d="2650" w="1" a="1">
+</p>
+<p t="140280" d="5099" w="1"><s ac="248">responsible</s><s t="480" ac="248"> Davis</s><s t="1319" ac="247"> police</s><s t="1800" ac="247"> chief</s><s t="2220" ac="248"> Darren</s></p>
+<p t="142910" d="2469" w="1" a="1">
+</p>
+<p t="142920" d="4800" w="1"><s ac="248">pytel</s><s t="539" ac="242"> says</s><s t="959" ac="247"> the</s><s t="1440" ac="245"> suspect</s><s t="1740" ac="248"> was</s><s t="1980" ac="248"> arrested</s></p>
+<p t="145369" d="2351" w="1" a="1">
+</p>
+<p t="145379" d="4681" w="1"><s ac="248">after</s><s t="541" ac="248"> police</s><s t="901" ac="246"> received</s><s t="1621" ac="244"> tips</s><s t="1860" ac="244"> from</s><s t="2161" ac="248"> the</s></p>
+<p t="147710" d="2350" w="1" a="1">
+</p>
+<p t="147720" d="3659" w="1"><s ac="248">community</s><s t="120" ac="248"> it&#39;s</s><s t="659" ac="242"> pretty</s><s t="900" ac="248"> remarkable</s><s t="1379" ac="241"> 15</s></p>
+<p t="150050" d="1329" w="1" a="1">
+</p>
+<p t="150060" d="3420" w="1"><s ac="242">people</s></p>
+<p t="151369" d="2111" w="1" a="1">
+</p>
+<p t="151379" d="5281" w="1"><s ac="248">took</s><s t="661" ac="248"> a</s><s t="781" ac="248"> description</s><s t="1080" ac="248"> that</s><s t="1440" ac="248"> we</s><s t="1561" ac="248"> had</s><s t="1681" ac="248"> put</s><s t="1921" ac="248"> out</s></p>
+<p t="153470" d="3190" w="1" a="1">
+</p>
+<p t="153480" d="4800" w="1"><s ac="248">and</s><s t="960" ac="248"> actually</s><s t="1200" ac="248"> all</s><s t="1619" ac="248"> of</s><s t="1800" ac="248"> you</s><s t="1979" ac="212"> in</s><s t="2280" ac="248"> the</s><s t="2460" ac="248"> media</s><s t="2759" ac="248"> had</s></p>
+<p t="156650" d="1630" w="1" a="1">
+</p>
+<p t="156660" d="3420" w="1"><s ac="248">helped</s><s t="420" ac="248"> us</s><s t="480" ac="248"> put</s><s t="659" ac="248"> out</s></p>
+<p t="158270" d="1810" w="1" a="1">
+</p>
+<p t="158280" d="3780" w="1"><s ac="248">and</s><s t="480" ac="248"> they</s><s t="660" ac="248"> saw</s><s t="840" ac="248"> a</s><s t="1020" ac="248"> person</s><s t="1140" ac="248"> who</s><s t="1380" ac="247"> matched</s><s t="1740" ac="234"> the</s></p>
+<p t="160070" d="1990" w="1" a="1">
+</p>
+<p t="160080" d="4920" w="1"><s ac="246">description</s><s t="360" ac="248"> and</s><s t="780" ac="248"> they</s><s t="960" ac="238"> called</s></p>
+<p t="162050" d="2950" w="1" a="1">
+</p>
+<p t="162060" d="5100" w="1"><s ac="248">and</s><s t="480" ac="248"> that</s><s t="660" ac="248"> led</s><s t="959" ac="248"> directly</s><s t="1560" ac="248"> to</s><s t="2340" ac="248"> the</s><s t="2459" ac="248"> arrest</s><s t="2580" ac="248"> in</s></p>
+<p t="164990" d="2170" w="1" a="1">
+</p>
+<p t="165000" d="4319" w="1"><s ac="248">this</s><s t="180" ac="248"> case</s><s t="360" ac="248"> police</s><s t="900" ac="248"> did</s><s t="1260" ac="248"> not</s><s t="1440" ac="248"> disclose</s><s t="1920" ac="248"> any</s></p>
+<p t="167150" d="2169" w="1" a="1">
+</p>
+<p t="167160" d="4020" w="1"><s ac="248">motive</s><s t="420" ac="248"> for</s><s t="600" ac="248"> the</s><s t="719" ac="225"> stabbings</s><s t="1140" ac="248"> the</s><s t="1859" ac="248"> labor</s></p>
+<p t="169309" d="1871" w="1" a="1">
+</p>
+<p t="169319" d="4441" w="1"><s ac="248">department</s><s t="121" ac="248"> is</s><s t="541" ac="248"> scheduled</s><s t="961" ac="248"> to</s><s t="1140" ac="248"> release</s><s t="1321" ac="248"> its</s></p>
+<p t="171170" d="2590" w="1" a="1">
+</p>
+<p t="171180" d="4500" w="1"><s ac="248">monthly</s><s t="240" ac="248"> job</s><s t="540" ac="248"> report</s><s t="839" ac="248"> within</s><s t="1380" ac="248"> the</s><s t="1559" ac="248"> hour</s><s t="1680" ac="248"> many</s></p>
+<p t="173750" d="1930" w="1" a="1">
+</p>
+<p t="173760" d="4559" w="1"><s ac="248">analysts</s><s t="479" ac="248"> expect</s><s t="720" ac="248"> that</s><s t="1199" ac="248"> job</s><s t="1440" ac="248"> growth</s></p>
+<p t="175670" d="2649" w="1" a="1">
+</p>
+<p t="175680" d="4980" w="1"><s ac="248">continued</s><s t="600" ac="248"> to</s><s t="720" ac="243"> slow</s><s t="960" ac="248"> in</s><s t="1320" ac="248"> April</s><s t="1620" ac="248"> as</s><s t="2160" ac="248"> rising</s></p>
+<p t="178309" d="2351" w="1" a="1">
+</p>
+<p t="178319" d="4741" w="1"><s ac="248">interest</s><s t="241" ac="248"> rates</s><s t="721" ac="248"> affected</s><s t="1200" ac="245"> employment</s><s t="1681" ac="248"> in</s></p>
+<p t="180650" d="2410" w="1" a="1">
+</p>
+<p t="180660" d="4020" w="1"><s ac="248">construction</s><s t="240" ac="248"> and</s><s t="719" ac="242"> Manufacturing</s><s t="1439" ac="248"> also</s><s t="2219" ac="248"> in</s></p>
+<p t="183050" d="1630" w="1" a="1">
+</p>
+<p t="183060" d="3720" w="1"><s ac="244">recent</s><s t="240" ac="245"> months</s><s t="600" ac="248"> consumers</s><s t="1080" ac="248"> have</s><s t="1319" ac="248"> been</s><s t="1440" ac="248"> more</s></p>
+<p t="184670" d="2110" w="1" a="1">
+</p>
+<p t="184680" d="4380" w="1"><s ac="248">cautious</s><s t="360" ac="242"> in</s><s t="600" ac="248"> spending</s><s t="1080" ac="248"> the</s><s t="1500" ac="248"> jobless</s><s t="1860" ac="248"> rate</s></p>
+<p t="186770" d="2290" w="1" a="1">
+</p>
+<p t="186780" d="6260" w="1"><s ac="248">has</s><s t="239" ac="245"> stayed</s><s t="599" ac="248"> near</s><s t="720" ac="248"> a</s><s t="900" ac="248"> half</s><s t="1020" ac="242"> century</s><s t="1440" ac="248"> low</s></p>
+<p t="189050" d="3990" w="1" a="1">
+</p>
+<p t="189060" d="3980" w="1"><s ac="248">this</s><s t="720" ac="248"> is</s><s t="899" ac="248"> NPR</s><s t="1679" ac="248"> news</s></p>
+</body>
+</timedtext>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="0" d="4140" w="1"><s ac="248">you</s><s t="659" ac="242"> are</s><s t="840" ac="248"> very</s><s t="1020" ac="248"> open</s><s t="1199" ac="248"> and</s><s t="1560" ac="248"> candid</s><s t="1860" ac="248"> about</s></p>
+<p t="2030" d="2110" w="1" a="1">
+</p>
+<p t="2040" d="3900" w="1"><s ac="247">acknowledging</s><s t="540" ac="248"> the</s><s t="839" ac="248"> fact</s><s t="1020" ac="248"> that</s><s t="1260" ac="248"> you</s><s t="1980" ac="248"> have</s></p>
+<p t="4130" d="1810" w="1" a="1">
+</p>
+<p t="4140" d="4080" w="1"><s ac="248">support</s><s t="300" ac="248"> and</s><s t="659" ac="248"> you</s><s t="840" ac="248"> have</s><s t="960" ac="248"> help</s><s t="1260" ac="248"> and</s><s t="1500" ac="248"> you</s><s t="1679" ac="248"> have</s></p>
+<p t="5930" d="2290" w="1" a="1">
+</p>
+<p t="5940" d="5279" w="1"><s ac="248">had</s><s t="240" ac="248"> help</s><s t="480" ac="247"> throughout</s><s t="899" ac="248"> your</s><s t="1140" ac="248"> life</s><s t="1379" ac="227"> in</s><s t="1919" ac="248"> raising</s></p>
+<p t="8210" d="3009" w="1" a="1">
+</p>
+<p t="8220" d="5160" w="1"><s ac="248">your</s><s t="240" ac="248"> children</s><s t="419" ac="248"> and</s><s t="1020" ac="248"> you</s><s t="1200" ac="248"> point</s><s t="1379" ac="248"> out</s><s t="1620" ac="248"> that</s></p>
+<p t="11209" d="2171" w="1" a="1">
+</p>
+<p t="11219" d="3540" w="1"><s ac="248">any</s><s t="601" ac="248"> High</s><s t="781" ac="248"> earning</s><s t="1141" ac="248"> successful</s><s t="1561" ac="248"> women</s><s t="1741" ac="248"> who</s></p>
+<p t="13370" d="1389" w="1" a="1">
+</p>
+<p t="13380" d="3680" w="1"><s ac="248">report</s><s t="240" ac="248"> to</s><s t="600" ac="248"> have</s><s t="660" ac="248"> it</s><s t="780" ac="248"> all</s><s t="900" ac="248"> and</s><s t="1020" ac="248"> do</s><s t="1139" ac="248"> it</s><s t="1259" ac="248"> all</s></p>
+<p t="14749" d="2311" w="1" a="1">
+</p>
+<p t="14759" d="5100" w="1"><s ac="248">they&#39;ve</s><s t="661" ac="248"> got</s><s t="901" ac="248"> help</s><s t="1201" ac="248"> so</s><s t="1561" ac="248"> I</s><s t="1681" ac="248"> want</s><s t="1801" ac="248"> to</s><s t="1921" ac="248"> ask</s><s t="2100" ac="248"> you</s></p>
+<p t="17050" d="2809" w="1" a="1">
+</p>
+<p t="17060" d="5500" w="1"><s ac="248">what</s><s t="1000" ac="248"> disservice</s><s t="1479" ac="248"> do</s><s t="1900" ac="248"> we</s><s t="2139" ac="248"> do</s><s t="2380" ac="248"> to</s><s t="2559" ac="248"> people</s></p>
+<p t="19849" d="2711" w="1" a="1">
+</p>
+<p t="19859" d="4861" w="1"><s ac="248">particularly</s><s t="601" ac="248"> women</s><s t="1080" ac="248"> and</s><s t="1441" ac="248"> caregivers</s><s t="2161" ac="248"> when</s></p>
+<p t="22550" d="2170" w="1" a="1">
+</p>
+<p t="22560" d="3900" w="1"><s ac="248">we</s><s t="180" ac="248"> don&#39;t</s><s t="360" ac="248"> all</s><s t="719" ac="248"> acknowledge</s><s t="1500" ac="248"> an</s><s t="1799" ac="248"> aren&#39;t</s><s t="2040" ac="248"> as</s></p>
+<p t="24710" d="1750" w="1" a="1">
+</p>
+<p t="24720" d="3840" w="1"><s ac="248">transparent</s><s t="600" ac="248"> about</s><s t="1020" ac="248"> the</s><s t="1200" ac="248"> fact</s><s t="1319" ac="248"> that</s><s t="1440" ac="248"> we</s><s t="1620" ac="248"> have</s></p>
+<p t="26450" d="2110" w="1" a="1">
+</p>
+<p t="26460" d="3659" w="1"><s ac="248">help</s><s t="180" ac="248"> especially</s><s t="720" ac="248"> given</s><s t="1559" ac="248"> that</s><s t="1680" ac="248"> we</s><s t="1860" ac="248"> are</s><s t="1979" ac="248"> coming</s></p>
+<p t="28550" d="1569" w="1" a="1">
+</p>
+<p t="28560" d="3839" w="1"><s ac="248">out</s><s t="240" ac="248"> of</s><s t="360" ac="248"> a</s><s t="479" ac="248"> two</s><s t="600" ac="248"> to</s><s t="719" ac="248"> three</s><s t="900" ac="248"> year</s><s t="1020" ac="248"> period</s><s t="1379" ac="248"> that</s></p>
+<p t="30109" d="2290" w="1" a="1">
+</p>
+<p t="30119" d="3600" w="1"><s ac="248">is</s><s t="121" ac="248"> exposed</s><s t="660" ac="248"> so</s><s t="1441" ac="248"> much</s><s t="1560" ac="248"> strain</s><s t="1980" ac="248"> in</s><s t="2160" ac="248"> our</s></p>
+<p t="32389" d="1330" w="1" a="1">
+</p>
+<p t="32399" d="4381" w="1"><s ac="248">caregiving</s><s t="360" ac="248"> infrastructure</s><s t="961" ac="248"> in</s><s t="1141" ac="248"> this</s></p>
+<p t="33709" d="3071" w="1" a="1">
+</p>
+<p t="33719" d="5340" w="1"><s ac="248">country</s><s t="180" ac="248"> well</s><s t="1020" ac="248"> that&#39;s</s><s t="1321" ac="248"> the</s><s t="1741" ac="248"> you</s><s t="2161" ac="248"> know</s><s t="2281" ac="248"> the</s><s t="2881" ac="248"> the</s></p>
+<p t="36770" d="2289" w="1" a="1">
+</p>
+<p t="36780" d="4380" w="1"><s ac="248">Trope</s><s t="420" ac="248"> that</s><s t="660" ac="248"> we</s><s t="900" ac="248"> wear</s><s t="1080" ac="248"> as</s><s t="1380" ac="248"> women</s><s t="1619" ac="248"> that</s><s t="2100" ac="248"> we&#39;re</s></p>
+<p t="39049" d="2111" w="1" a="1">
+</p>
+<p t="39059" d="3840" w="1"><s ac="248">supposed</s><s t="241" ac="248"> to</s><s t="421" ac="248"> be</s><s t="601" ac="248"> able</s><s t="781" ac="248"> to</s><s t="901" ac="248"> do</s><s t="1081" ac="248"> it</s><s t="1320" ac="248"> all</s></p>
+<p t="41150" d="1749" w="1" a="1">
+</p>
+<p t="41160" d="4500" w="1"><s ac="233">um</s><s t="120" ac="248"> you</s><s t="300" ac="248"> know</s><s t="360" ac="248"> when</s><s t="540" ac="247"> I</s><s t="780" ac="248"> look</s><s t="899" ac="248"> back</s><s t="1200" ac="248"> on</s><s t="1500" ac="248"> the</s></p>
+<p t="42889" d="2771" w="1" a="1">
+</p>
+<p t="42899" d="6180" w="1"><s ac="248">women</s><s t="180" ac="248"> in</s><s t="480" ac="248"> my</s><s t="721" ac="248"> life</s><s t="901" ac="248"> you</s><s t="1500" ac="248"> know</s><s t="1621" ac="248"> it</s><s t="1980" ac="248"> was</s><s t="2160" ac="248"> a</s><s t="2521" ac="248"> real</s></p>
+<p t="45650" d="3429" w="1" a="1">
+</p>
+<p t="45660" d="5879" w="1"><s ac="247">necessity</s><s t="600" ac="248"> you</s><s t="1380" ac="248"> know</s><s t="1500" ac="241"> the</s><s t="2280" ac="248"> the</s><s t="2340" ac="246"> matriarchs</s><s t="3239" ac="241"> of</s></p>
+<p t="49069" d="2470" w="1" a="1">
+</p>
+<p t="49079" d="5820" w="1"><s ac="248">our</s><s t="181" ac="248"> household</s><s t="601" ac="248"> did</s><s t="1140" ac="248"> do</s><s t="1320" ac="248"> it</s><s t="1500" ac="248"> all</s><s t="1681" ac="248"> as</s><s t="2160" ac="248"> black</s></p>
+<p t="51529" d="3370" w="1" a="1">
+</p>
+<p t="51539" d="5221" w="1"><s ac="248">women</s><s t="301" ac="248"> with</s><s t="781" ac="248"> men</s><s t="1081" ac="248"> whose</s><s t="2000" ac="240"> opportunities</s><s t="3000" ac="248"> were</s></p>
+<p t="54889" d="1871" w="1" a="1">
+</p>
+<p t="54899" d="5101" w="1"><s ac="248">limited</s><s t="421" ac="248"> because</s><s t="660" ac="242"> of</s><s t="961" ac="247"> Jim</s><s t="1201" ac="248"> Crow</s><s t="1500" ac="248"> and</s></p>
+<p t="56750" d="3250" w="1" a="1">
+</p>
+<p t="56760" d="6660" w="1"><s ac="247">segregation</s><s t="600" ac="248"> you</s><s t="1260" ac="248"> know</s><s t="1380" ac="248"> if</s><s t="2220" ac="248"> I</s><s t="2400" ac="248"> look</s><s t="2580" ac="248"> back</s><s t="2880" ac="248"> over</s></p>
+<p t="59990" d="3430" w="1" a="1">
+</p>
+<p t="60000" d="6540" w="1"><s ac="248">my</s><s t="719" ac="248"> personal</s><s t="960" ac="248"> history</s><s t="1440" ac="248"> I</s><s t="1920" ac="248"> can</s><s t="2160" ac="248"> see</s><s t="2520" ac="248"> where</s><s t="2940" ac="248"> you</s></p>
+<p t="63410" d="3130" w="1" a="1">
+</p>
+<p t="63420" d="5280" w="1"><s ac="248">know</s><s t="60" ac="248"> that&#39;s</s><s t="599" ac="248"> what</s><s t="959" ac="248"> was</s><s t="1319" ac="248"> modeled</s><s t="1739" ac="248"> to</s><s t="1919" ac="248"> us</s><s t="2160" ac="248"> that</s></p>
+<p t="66530" d="2170" w="1" a="1">
+</p>
+<p t="66540" d="5880" w="1"><s ac="248">the</s><s t="300" ac="245"> mothers</s><s t="840" ac="248"> in</s><s t="1079" ac="248"> our</s><s t="1259" ac="248"> lives</s><s t="1619" ac="248"> did</s><s t="1920" ac="248"> everything</s></p>
+<p t="68690" d="3730" w="1" a="1">
+</p>
+<p t="68700" d="6300" w="1"><s ac="247">so</s><s t="900" ac="248"> we&#39;re</s><s t="1860" ac="248"> emulating</s><s t="2459" ac="222"> at</s><s t="2940" ac="248"> particularly</s><s t="3480" ac="248"> as</s></p>
+<p t="72410" d="2590" w="1" a="1">
+</p>
+<p t="72420" d="4920" w="1"><s ac="248">women</s><s t="180" ac="248"> of</s><s t="480" ac="248"> color</s><s t="660" ac="248"> you</s><s t="1320" ac="248"> know</s><s t="1500" ac="248"> that&#39;s</s><s t="2040" ac="248"> that&#39;s</s><s t="2340" ac="248"> a</s></p>
+<p t="74990" d="2350" w="1" a="1">
+</p>
+<p t="75000" d="5640" w="1"><s ac="248">sign</s><s t="180" ac="248"> of</s><s t="360" ac="248"> strength</s><s t="840" ac="248"> you</s><s t="1560" ac="248"> know</s><s t="1680" ac="248"> so</s><s t="1979" ac="248"> we</s><s t="2159" ac="248"> don&#39;t</s></p>
+<p t="77330" d="3310" w="1" a="1">
+</p>
+<p t="77340" d="7800" w="1"><s ac="248">ask</s><s t="240" ac="248"> for</s><s t="599" ac="248"> help</s><s t="860" ac="248"> we</s><s t="1860" ac="248"> are</s><s t="2040" ac="248"> not</s><s t="2340" ac="248"> conditioned</s><s t="3180" ac="248"> to</s></p>
+<p t="80630" d="4510" w="1" a="1">
+</p>
+<p t="80640" d="7619" w="1"><s ac="248">think</s><s t="299" ac="248"> that</s><s t="839" ac="248"> uh</s><s t="1560" ac="248"> that</s><s t="2040" ac="248"> that&#39;s</s><s t="2280" ac="248"> not</s><s t="2640" ac="248"> a</s><s t="2820" ac="248"> weakness</s></p>
+<p t="85130" d="3129" w="1" a="1">
+</p>
+<p t="85140" d="5760" w="1"><s ac="248">um</s><s t="119" ac="248"> so</s><s t="900" ac="248"> yes</s><s t="1200" ac="248"> I</s><s t="1500" ac="248"> think</s><s t="1619" ac="248"> it&#39;s</s><s t="1860" ac="248"> a</s><s t="2040" ac="248"> disservice</s><s t="2460" ac="248"> when</s></p>
+<p t="88249" d="2651" w="1" a="1">
+</p>
+<p t="88259" d="5101" w="1"><s ac="248">those</s><s t="360" ac="248"> of</s><s t="540" ac="248"> us</s><s t="720" ac="248"> who</s><s t="1021" ac="248"> are</s><s t="1141" ac="248"> out</s><s t="1441" ac="248"> here</s><s t="1680" ac="248"> modeling</s><s t="2461" ac="248"> it</s></p>
+<p t="90890" d="2470" w="1" a="1">
+</p>
+<p t="90900" d="4740" w="1"><s ac="248">aren&#39;t</s><s t="719" ac="248"> being</s><s t="1020" ac="248"> real</s><s t="1259" ac="248"> clear</s><s t="1560" ac="248"> about</s><s t="1920" ac="248"> the</s><s t="2280" ac="248"> fact</s></p>
+<p t="93350" d="2290" w="1" a="1">
+</p>
+<p t="93360" d="5700" w="1"><s ac="248">that</s><s t="360" ac="248"> we</s><s t="840" ac="248"> are</s><s t="960" ac="248"> not</s><s t="1140" ac="248"> meant</s><s t="1500" ac="248"> to</s><s t="1619" ac="248"> do</s><s t="1799" ac="248"> this</s><s t="2040" ac="248"> life</s></p>
+<p t="95630" d="3430" w="1" a="1">
+</p>
+<p t="95640" d="5880" w="1"><s ac="248">alone</s><s t="360" ac="248"> we</s><s t="1200" ac="248"> are</s><s t="1380" ac="248"> not</s><s t="1500" ac="248"> meant</s><s t="2040" ac="248"> I</s><s t="2400" ac="248"> believe</s><s t="2640" ac="248"> we</s><s t="3240" ac="248"> were</s></p>
+<p t="99050" d="2470" w="1" a="1">
+</p>
+<p t="99060" d="5220" w="1"><s ac="248">not</s><s t="239" ac="248"> meant</s><s t="599" ac="248"> to</s><s t="720" ac="248"> parent</s><s t="1019" ac="248"> alone</s><s t="1440" ac="248"> you</s><s t="2099" ac="248"> know</s><s t="2220" ac="248"> the</s></p>
+<p t="101510" d="2770" w="1" a="1">
+</p>
+<p t="101520" d="4739" w="1"><s ac="248">whole</s><s t="180" ac="248"> concept</s><s t="660" ac="248"> of</s><s t="959" ac="248"> a</s><s t="1139" ac="248"> nuclear</s><s t="1620" ac="248"> family</s><s t="1919" ac="248"> you</s></p>
+<p t="104270" d="1989" w="1" a="1">
+</p>
+<p t="104280" d="5220" w="1"><s ac="248">know</s><s t="120" ac="248"> just</s><s t="600" ac="248"> me</s><s t="780" ac="248"> my</s><s t="1080" ac="248"> husband</s><s t="1260" ac="248"> if</s><s t="1620" ac="248"> you&#39;re</s><s t="1799" ac="248"> lucky</s></p>
+<p t="106249" d="3251" w="1" a="1">
+</p>
+<p t="106259" d="7201" w="1"><s ac="248">and</s><s t="481" ac="248"> the</s><s t="720" ac="248"> kids</s><s t="900" ac="248"> and</s><s t="1621" ac="248"> this</s><s t="1801" ac="248"> is</s><s t="1981" ac="248"> our</s><s t="2220" ac="248"> unit</s><s t="2400" ac="248"> and</s><s t="2820" ac="248"> we</s></p>
+<p t="109490" d="3970" w="1" a="1">
+</p>
+<p t="109500" d="7740" w="1"><s ac="248">live</s><s t="420" ac="248"> independently</s><s t="1340" ac="248"> that&#39;s</s><s t="2340" ac="248"> a</s><s t="2700" ac="248"> fairly</s><s t="3119" ac="248"> new</s></p>
+<p t="113450" d="3790" w="1" a="1">
+</p>
+<p t="113460" d="7080" w="1"><s ac="248">phenomenon</s><s t="659" ac="248"> to</s><s t="960" ac="248"> our</s><s t="1199" ac="248"> generation</s><s t="2060" ac="248"> there</s><s t="3060" ac="248"> is</s><s t="3240" ac="248"> uh</s></p>
+<p t="117230" d="3310" w="1" a="1">
+</p>
+<p t="117240" d="6480" w="1"><s ac="248">nothing</s><s t="919" ac="248"> particularly</s><s t="1919" ac="248"> Courageous</s><s t="2820" ac="248"> about</s></p>
+<p t="120530" d="3190" w="1" a="1">
+</p>
+<p t="120540" d="6060" w="1"><s ac="248">doing</s><s t="420" ac="248"> life</s><s t="840" ac="248"> alone</s><s t="1280" ac="248"> you</s><s t="2280" ac="248"> know</s></p>
+<p t="123710" d="2890" w="1" a="1">
+</p>
+<p t="123720" d="4679" w="1"><s ac="248">um</s><s t="60" ac="248"> but</s><s t="960" ac="248"> you</s><s t="1320" ac="248"> know</s><s t="1439" ac="248"> if</s><s t="1679" ac="248"> we</s><s t="1800" ac="248"> if</s><s t="2039" ac="230"> if</s><s t="2280" ac="248"> those</s><s t="2579" ac="248"> of</s><s t="2759" ac="248"> us</s></p>
+<p t="126590" d="1809" w="1" a="1">
+</p>
+<p t="126600" d="4079" w="1"><s ac="248">who</s><s t="240" ac="248"> are</s><s t="420" ac="248"> doing</s><s t="600" ac="222"> and</s><s t="900" ac="235"> aren&#39;t</s><s t="1140" ac="242"> being</s><s t="1379" ac="248"> honest</s></p>
+<p t="128389" d="2290" w="1" a="1">
+</p>
+<p t="128399" d="4980" w="1"><s ac="248">about</s><s t="360" ac="248"> how</s><s t="901" ac="248"> hard</s><s t="1021" ac="248"> that</s><s t="1381" ac="248"> is</s><s t="1500" ac="248"> and</s><s t="1801" ac="248"> what</s><s t="2041" ac="248"> it</s><s t="2101" ac="244"> takes</s></p>
+<p t="130669" d="2710" w="1" a="1">
+</p>
+<p t="130679" d="4381" w="1"><s ac="248">to</s><s t="181" ac="248"> actually</s><s t="420" ac="234"> get</s><s t="961" ac="247"> it</s><s t="1140" ac="248"> right</s><s t="1381" ac="248"> then</s><s t="2341" ac="247"> we&#39;re</s></p>
+<p t="133369" d="1691" w="1" a="1">
+</p>
+<p t="133379" d="3720" w="1"><s ac="244">mirroring</s><s t="481" ac="246"> the</s><s t="720" ac="244"> wrong</s><s t="901" ac="248"> things</s><s t="1201" ac="248"> for</s><s t="1561" ac="248"> the</s></p>
+<p t="135050" d="2049" w="1" a="1">
+</p>
+<p t="135060" d="5720" w="1"><s ac="248">generation</s><s t="420" ac="248"> to</s><s t="720" ac="248"> come</s><s t="899" ac="248"> and</s><s t="1620" ac="248"> I</s><s t="1740" ac="248"> don&#39;t</s><s t="1800" ac="248"> want</s><s t="1920" ac="248"> to</s></p>
+<p t="137089" d="3691" w="1" a="1">
+</p>
+<p t="137099" d="3681" w="1"><s ac="248">do</s><s t="121" ac="248"> that</s><s t="301" ac="248"> to</s><s t="481" ac="248"> my</s><s t="720" ac="248"> girls</s><s t="901" ac="248"> you</s><s t="1561" ac="241"> know</s></p>
+</body>
+</timedtext>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="0" d="4440" w="1"><s ac="248">President</s><s t="780" ac="248"> Biden</s><s t="1319" ac="248"> will</s><s t="1620" ac="248"> walk</s><s t="1860" ac="248"> a</s><s t="2100" ac="248"> picket</s><s t="2460" ac="248"> line</s></p>
+<p t="2629" d="1811" w="1" a="1">
+</p>
+<p t="2639" d="3901" w="1"><s ac="248">with</s><s t="301" ac="248"> members</s><s t="601" ac="248"> of</s><s t="780" ac="248"> the</s><s t="901" ac="248"> United</s><s t="1020" ac="248"> Auto</s><s t="1381" ac="248"> Workers</s></p>
+<p t="4430" d="2110" w="1" a="1">
+</p>
+<p t="4440" d="4260" w="1"><s ac="248">today</s><s t="240" ac="248"> and</s><s t="839" ac="248"> later</s><s t="1020" ac="248"> today</s><s t="1260" ac="248"> a</s><s t="1620" ac="248"> hearing</s><s t="1859" ac="248"> gets</s></p>
+<p t="6530" d="2170" w="1" a="1">
+</p>
+<p t="6540" d="4920" w="1"><s ac="248">underway</s><s t="359" ac="248"> over</s><s t="600" ac="248"> a</s><s t="900" ac="248"> doping</s><s t="1200" ac="248"> scandal</s><s t="1680" ac="248"> from</s><s t="1979" ac="248"> the</s></p>
+<p t="8690" d="2770" w="1" a="1">
+</p>
+<p t="8700" d="4979" w="1"><s ac="248">2022</s><s t="720" ac="248"> Winter</s><s t="1140" ac="248"> Olympics</s><s t="1740" ac="248"> good</s><s t="2220" ac="248"> morning</s><s t="2460" ac="248"> I&#39;m</s></p>
+<p t="11450" d="2229" w="1" a="1">
+</p>
+<p t="11460" d="4560" w="1"><s ac="248">Corva</s><s t="420" ac="248"> Coleman</s><s t="780" ac="248"> from</s><s t="960" ac="248"> NPR</s><s t="1380" ac="248"> news</s><s t="1559" ac="248"> and</s><s t="1860" ac="248"> here</s><s t="2040" ac="248"> are</s></p>
+<p t="13669" d="2351" w="1" a="1">
+</p>
+<p t="13679" d="3961" w="1"><s ac="248">today&#39;s</s><s t="181" ac="248"> top</s><s t="481" ac="248"> stories</s><s t="960" ac="248"> this</s><s t="1561" ac="248"> is</s><s t="1681" ac="248"> day</s><s t="1861" ac="248"> 12</s><s t="2101" ac="248"> of</s></p>
+<p t="16010" d="1630" w="1" a="1">
+</p>
+<p t="16020" d="4200" w="1"><s ac="248">the</s><s t="179" ac="248"> United</s><s t="300" ac="248"> Auto</s><s t="599" ac="248"> Workers</s><s t="1080" ac="248"> strike</s><s t="1380" ac="248"> against</s></p>
+<p t="17630" d="2590" w="1" a="1">
+</p>
+<p t="17640" d="4680" w="1"><s ac="248">Detroit&#39;s</s><s t="660" ac="248"> big</s><s t="899" ac="248"> three</s><s t="1260" ac="248"> automakers</s><s t="2040" ac="248"> President</s></p>
+<p t="20210" d="2110" w="1" a="1">
+</p>
+<p t="20220" d="3540" w="1"><s ac="248">Biden</s><s t="600" ac="248"> plans</s><s t="960" ac="248"> to</s><s t="1080" ac="248"> be</s><s t="1139" ac="248"> in</s><s t="1260" ac="248"> Michigan</s><s t="1440" ac="248"> today</s><s t="1800" ac="248"> to</s></p>
+<p t="22310" d="1450" w="1" a="1">
+</p>
+<p t="22320" d="3780" w="1"><s ac="248">join</s><s t="240" ac="248"> a</s><s t="420" ac="248"> picket</s><s t="780" ac="248"> line</s><s t="959" ac="248"> in</s><s t="1260" ac="248"> the</s><s t="1379" ac="248"> Detroit</s></p>
+<p t="23750" d="2350" w="1" a="1">
+</p>
+<p t="23760" d="4320" w="1"><s ac="248">suburbs</s><s t="779" ac="248"> and</s><s t="1200" ac="170"> Pierce</s><s t="1560" ac="237"> Deepa</s><s t="1859" ac="245"> shiveron</s></p>
+<p t="26090" d="1990" w="1" a="1">
+</p>
+<p t="26100" d="4499" w="1"><s ac="248">reports</s><s t="360" ac="248"> the</s><s t="480" ac="230"> president</s><s t="660" ac="248"> was</s><s t="1140" ac="242"> invited</s><s t="1560" ac="248"> by</s><s t="1800" ac="230"> the</s></p>
+<p t="28070" d="2529" w="1" a="1">
+</p>
+<p t="28080" d="4499" w="1"><s ac="248">head</s><s t="119" ac="248"> of</s><s t="300" ac="230"> the</s><s t="480" ac="245"> UAW</s><s t="779" ac="248"> President</s><s t="1619" ac="247"> Biden</s><s t="2279" ac="248"> who</s></p>
+<p t="30589" d="1990" w="1" a="1">
+</p>
+<p t="30599" d="4441" w="1"><s ac="248">often</s><s t="361" ac="243"> touts</s><s t="781" ac="248"> himself</s><s t="1020" ac="248"> as</s><s t="1321" ac="248"> being</s><s t="1561" ac="248"> the</s><s t="1861" ac="248"> most</s></p>
+<p t="32569" d="2471" w="1" a="1">
+</p>
+<p t="32579" d="4201" w="1"><s ac="247">pro-union</s><s t="781" ac="248"> President</s><s t="1021" ac="248"> says</s><s t="1801" ac="248"> the</s><s t="1980" ac="248"> United</s><s t="2101" ac="248"> Auto</s></p>
+<p t="35030" d="1750" w="1" a="1">
+</p>
+<p t="35040" d="4260" w="1"><s ac="248">Workers</s><s t="539" ac="248"> helped</s><s t="960" ac="248"> save</s><s t="1140" ac="243"> the</s><s t="1380" ac="239"> automobile</s></p>
+<p t="36770" d="2530" w="1" a="1">
+</p>
+<p t="36780" d="5520" w="1"><s ac="246">industry</s><s t="660" ac="248"> when</s><s t="959" ac="248"> it</s><s t="1080" ac="248"> was</s><s t="1200" ac="248"> crashing</s><s t="1680" ac="248"> and</s><s t="2400" ac="248"> I</s></p>
+<p t="39290" d="3010" w="1" a="1">
+</p>
+<p t="39300" d="5759" w="1"><s ac="248">think</s><s t="180" ac="248"> that</s><s t="360" ac="246"> now</s><s t="779" ac="248"> that</s><s t="1680" ac="248"> the</s><s t="2220" ac="248"> industry</s><s t="2759" ac="248"> is</s></p>
+<p t="42290" d="2769" w="1" a="1">
+</p>
+<p t="42300" d="4500" w="1"><s ac="248">roaring</s><s t="599" ac="248"> back</s><s t="720" ac="248"> they</s><s t="1680" ac="248"> should</s><s t="1860" ac="237"> that</s><s t="2520" ac="245"> they</s></p>
+<p t="45049" d="1751" w="1" a="1">
+</p>
+<p t="45059" d="3901" w="1"><s ac="248">should</s><s t="180" ac="248"> participate</s><s t="660" ac="248"> in</s><s t="901" ac="248"> the</s><s t="1141" ac="248"> in</s><s t="1500" ac="248"> the</s><s t="1621" ac="248"> benefit</s></p>
+<p t="46790" d="2170" w="1" a="1">
+</p>
+<p t="46800" d="3900" w="1"><s ac="248">of</s><s t="300" ac="248"> that</s><s t="480" ac="248"> Biden&#39;s</s><s t="1259" ac="248"> visit</s><s t="1380" ac="248"> comes</s><s t="1800" ac="248"> the</s><s t="1980" ac="248"> day</s></p>
+<p t="48950" d="1750" w="1" a="1">
+</p>
+<p t="48960" d="4320" w="1"><s ac="248">before</s><s t="240" ac="248"> former</s><s t="840" ac="248"> president</s><s t="1020" ac="248"> Donald</s><s t="1439" ac="248"> Trump</s></p>
+<p t="50690" d="2590" w="1" a="1">
+</p>
+<p t="50700" d="5760" w="1"><s ac="248">comes</s><s t="600" ac="248"> to</s><s t="660" ac="248"> visit</s><s t="839" ac="248"> Detroit</s><s t="1140" ac="248"> as</s><s t="1620" ac="248"> well</s><s t="1800" ac="248"> the</s><s t="2460" ac="248"> union</s></p>
+<p t="53270" d="3190" w="1" a="1">
+</p>
+<p t="53280" d="5599" w="1"><s ac="248">endorsed</s><s t="720" ac="248"> Biden</s><s t="1140" ac="248"> in</s><s t="1500" ac="248"> 2020</s><s t="1919" ac="248"> but</s><s t="2520" ac="248"> has</s><s t="2820" ac="248"> yet</s><s t="3000" ac="248"> to</s></p>
+<p t="56450" d="2429" w="1" a="1">
+</p>
+<p t="56460" d="5340" w="1"><s ac="248">endorse</s><s t="419" ac="248"> a</s><s t="540" ac="248"> candidate</s><s t="840" ac="248"> in</s><s t="1079" ac="248"> the</s><s t="1200" ac="248"> 2024</s><s t="1800" ac="248"> election</s></p>
+<p t="58869" d="2931" w="1" a="1">
+</p>
+<p t="58879" d="4840" w="1"><s ac="248">Deepa</s><s t="1000" ac="248"> shivaram</s><s t="1481" ac="248"> NPR</s><s t="2020" ac="248"> news</s><s t="2200" ac="248"> the</s><s t="2561" ac="248"> White</s><s t="2741" ac="248"> House</s></p>
+<p t="61790" d="1929" w="1" a="1">
+</p>
+<p t="61800" d="4319" w="1"><s ac="248">a</s><s t="480" ac="248"> union</s><s t="599" ac="248"> representing</s><s t="1320" ac="248"> thousands</s><s t="1800" ac="248"> of</s></p>
+<p t="63709" d="2410" w="1" a="1">
+</p>
+<p t="63719" d="4681" w="1"><s ac="248">hospitality</s><s t="781" ac="248"> workers</s><s t="1260" ac="248"> in</s><s t="1440" ac="248"> Nevada</s><s t="1681" ac="248"> is</s><s t="2161" ac="248"> taking</s></p>
+<p t="66109" d="2291" w="1" a="1">
+</p>
+<p t="66119" d="4741" w="1"><s ac="248">a</s><s t="360" ac="248"> strike</s><s t="661" ac="248"> vote</s><s t="961" ac="248"> today</s><s t="1141" ac="248"> The</s><s t="1500" ac="248"> Culinary</s><s t="2040" ac="248"> and</s></p>
+<p t="68390" d="2470" w="1" a="1">
+</p>
+<p t="68400" d="4680" w="1"><s ac="248">bartenders</s><s t="600" ac="248"> Union</s><s t="899" ac="248"> is</s><s t="1500" ac="248"> negotiating</s><s t="1980" ac="248"> with</s><s t="2280" ac="248"> the</s></p>
+<p t="70850" d="2230" w="1" a="1">
+</p>
+<p t="70860" d="5640" w="1"><s ac="248">Las</s><s t="180" ac="248"> Vegas</s><s t="360" ac="248"> casinos</s><s t="1020" ac="248"> and</s><s t="1200" ac="248"> hotels</s><s t="1439" ac="248"> for</s><s t="1860" ac="248"> a</s><s t="2040" ac="248"> new</s></p>
+<p t="73070" d="3430" w="1" a="1">
+</p>
+<p t="73080" d="5100" w="1"><s ac="248">contract</s><s t="480" ac="248"> no</s><s t="1320" ac="248"> walkout</s><s t="1800" ac="248"> is</s><s t="2160" ac="248"> imminent</s><s t="2700" ac="248"> the</s></p>
+<p t="76490" d="1690" w="1" a="1">
+</p>
+<p t="76500" d="3000" w="1"><s ac="248">house</s><s t="119" ac="248"> is</s><s t="299" ac="248"> scheduled</s><s t="720" ac="248"> to</s><s t="840" ac="248"> vote</s><s t="1020" ac="248"> on</s><s t="1200" ac="248"> spending</s></p>
+<p t="78170" d="1330" w="1" a="1">
+</p>
+<p t="78180" d="3479" w="1"><s ac="248">bills</s><s t="299" ac="248"> today</s><s t="479" ac="248"> the</s><s t="840" ac="248"> government</s><s t="960" ac="248"> will</s></p>
+<p t="79490" d="2169" w="1" a="1">
+</p>
+<p t="79500" d="4920" w="1"><s ac="248">partially</s><s t="299" ac="248"> shut</s><s t="600" ac="248"> down</s><s t="840" ac="248"> this</s><s t="1200" ac="248"> weekend</s><s t="1380" ac="248"> unless</s></p>
+<p t="81649" d="2771" w="1" a="1">
+</p>
+<p t="81659" d="5041" w="1"><s ac="248">Congress</s><s t="661" ac="248"> passes</s><s t="1621" ac="248"> spending</s><s t="2161" ac="248"> legislation</s></p>
+<p t="84410" d="2290" w="1" a="1">
+</p>
+<p t="84420" d="4519" w="1"><s ac="248">some</s><s t="780" ac="248"> Hardline</s><s t="1140" ac="245"> House</s><s t="1379" ac="248"> Republicans</s><s t="2040" ac="248"> are</s></p>
+<p t="86690" d="2249" w="1" a="1">
+</p>
+<p t="86700" d="4680" w="1"><s ac="248">blocking</s><s t="540" ac="248"> their</s><s t="840" ac="248"> own</s><s t="1020" ac="248"> party&#39;s</s><s t="1559" ac="248"> bills</s></p>
+<p t="88929" d="2451" w="1" a="1">
+</p>
+<p t="88939" d="4540" w="1"><s ac="246">authorities</s><s t="1000" ac="248"> in</s><s t="1241" ac="245"> Hawaii</s><s t="1481" ac="248"> have</s><s t="1901" ac="248"> allowed</s><s t="2201" ac="245"> the</s></p>
+<p t="91370" d="2109" w="1" a="1">
+</p>
+<p t="91380" d="3900" w="1"><s ac="248">first</s><s t="239" ac="248"> set</s><s t="599" ac="248"> of</s><s t="720" ac="248"> people</s><s t="960" ac="248"> to</s><s t="1320" ac="248"> return</s><s t="1500" ac="248"> to</s><s t="1860" ac="248"> their</s></p>
+<p t="93469" d="1811" w="1" a="1">
+</p>
+<p t="93479" d="3960" w="1"><s ac="248">burned</s><s t="361" ac="217"> out</s><s t="481" ac="248"> properties</s><s t="1081" ac="240"> in</s><s t="1320" ac="248"> the</s><s t="1441" ac="241"> city</s><s t="1561" ac="248"> of</s></p>
+<p t="95270" d="2169" w="1" a="1">
+</p>
+<p t="95280" d="4080" w="1"><s ac="247">Lahaina</s><s t="600" ac="248"> most</s><s t="1140" ac="248"> of</s><s t="1320" ac="241"> the</s><s t="1440" ac="235"> city</s><s t="1620" ac="248"> on</s><s t="1920" ac="248"> the</s><s t="2040" ac="248"> island</s></p>
+<p t="97429" d="1931" w="1" a="1">
+</p>
+<p t="97439" d="5220" w="1"><s ac="248">of</s><s t="241" ac="243"> Maui</s><s t="601" ac="248"> was</s><s t="841" ac="248"> burned</s><s t="1140" ac="248"> To</s><s t="1261" ac="248"> The</s><s t="1381" ac="248"> Ground</s><s t="1500" ac="248"> by</s></p>
+<p t="99350" d="3309" w="1" a="1">
+</p>
+<p t="99360" d="6420" w="1"><s ac="246">wildfires</s><s t="719" ac="248"> in</s><s t="1259" ac="248"> August</s><s t="1560" ac="248"> at</s><s t="2280" ac="248"> least</s><s t="2399" ac="248"> 97</s><s t="2939" ac="248"> people</s></p>
+<p t="102649" d="3131" w="1" a="1">
+</p>
+<p t="102659" d="6561" w="1"><s ac="248">perished</s><s t="661" ac="248"> resident</s><s t="1261" ac="182"> Tani</s><s t="1681" ac="248"> katayama</s><s t="2280" ac="248"> lost</s><s t="2820" ac="248"> her</s></p>
+<p t="105770" d="3450" w="1" a="1">
+</p>
+<p t="105780" d="3440" w="1"><s ac="248">family</s><s t="299" ac="248"> home</s><s t="720" ac="203"> Lana</s></p>
+<p t="112850" w="1" a="1">
+</p>
+<p t="112860" d="4500" w="1"><s ac="247">there</s><s t="539" ac="248"> are</s><s t="600" ac="248"> triggers</s><s t="1079" ac="248"> everywhere</s></p>
+<p t="115490" d="1870" w="1" a="1">
+</p>
+<p t="115500" d="3479" w="1"><s ac="248">and</s><s t="540" ac="248"> we&#39;re</s><s t="720" ac="248"> not</s><s t="899" ac="248"> ready</s><s t="1079" ac="248"> for</s><s t="1320" ac="248"> that</s><s t="1380" ac="248"> the</s></p>
+<p t="117350" d="1629" w="1" a="1">
+</p>
+<p t="117360" d="4439" w="1"><s ac="248">residents</s><s t="420" ac="248"> were</s><s t="660" ac="248"> offered</s><s t="1020" ac="248"> protective</s></p>
+<p t="118969" d="2830" w="1" a="1">
+</p>
+<p t="118979" d="5280" w="1"><s ac="248">equipment</s><s t="481" ac="248"> to</s><s t="841" ac="248"> Shield</s><s t="1021" ac="248"> them</s><s t="1500" ac="248"> from</s><s t="1861" ac="248"> toxic</s><s t="2280" ac="248"> dust</s></p>
+<p t="121789" d="2470" w="1" a="1">
+</p>
+<p t="121799" d="4801" w="1"><s ac="248">there&#39;s</s><s t="721" ac="248"> concern</s><s t="1201" ac="248"> that</s><s t="1500" ac="248"> the</s><s t="1801" ac="248"> ash</s><s t="1981" ac="248"> could</s></p>
+<p t="124249" d="2351" w="1" a="1">
+</p>
+<p t="124259" d="4381" w="1"><s ac="248">contain</s><s t="481" ac="248"> dangerous</s><s t="1140" ac="248"> substances</s><s t="1680" ac="248"> such</s><s t="2220" ac="248"> as</s></p>
+<p t="126590" d="2050" w="1" a="1">
+</p>
+<p t="126600" d="3960" w="1"><s ac="247">asbestos</s><s t="720" ac="248"> or</s><s t="1140" ac="248"> lead</s></p>
+<p t="128630" d="1930" w="1" a="1">
+</p>
+<p t="128640" d="4679" w="1"><s ac="248">a</s><s t="360" ac="248"> three-day</s><s t="599" ac="248"> hearing</s><s t="1020" ac="248"> gets</s><s t="1259" ac="248"> underway</s><s t="1619" ac="248"> today</s></p>
+<p t="130550" d="2769" w="1" a="1">
+</p>
+<p t="130560" d="5160" w="1"><s ac="248">in</s><s t="419" ac="248"> Switzerland</s><s t="1020" ac="248"> it&#39;s</s><s t="1620" ac="248"> expected</s><s t="2160" ac="248"> to</s><s t="2460" ac="248"> finally</s></p>
+<p t="133309" d="2411" w="1" a="1">
+</p>
+<p t="133319" d="6060" w="1"><s ac="248">settle</s><s t="420" ac="248"> a</s><s t="661" ac="248"> doping</s><s t="1021" ac="248"> Scandal</s><s t="1500" ac="248"> that</s><s t="1741" ac="248"> marred</s><s t="2221" ac="248"> the</s></p>
+<p t="135710" d="3669" w="1" a="1">
+</p>
+<p t="135720" d="6000" w="1"><s ac="248">2022</s><s t="900" ac="248"> Winter</s><s t="1260" ac="248"> Olympics</s><s t="1800" ac="248"> in</s><s t="1980" ac="248"> Beijing</s><s t="2659" ac="248"> NPR&#39;s</s></p>
+<p t="139369" d="2351" w="1" a="1">
+</p>
+<p t="139379" d="4621" w="1"><s ac="248">Brian</s><s t="241" ac="248"> Mann</s><s t="841" ac="248"> reports</s><s t="1261" ac="248"> because</s><s t="1741" ac="248"> of</s><s t="2161" ac="248"> the</s></p>
+<p t="141710" d="2290" w="1" a="1">
+</p>
+<p t="141720" d="4680" w="1"><s ac="248">controversy</s><s t="599" ac="248"> some</s><s t="960" ac="248"> U.S</s><s t="1440" ac="248"> figure</s><s t="1680" ac="248"> skaters</s></p>
+<p t="143990" d="2410" w="1" a="1">
+</p>
+<p t="144000" d="4440" w="1"><s ac="248">still</s><s t="300" ac="248"> have</s><s t="599" ac="248"> not</s><s t="840" ac="248"> received</s><s t="1560" ac="248"> their</s><s t="1920" ac="248"> medals</s></p>
+<p t="146390" d="2050" w="1" a="1">
+</p>
+<p t="146400" d="4020" w="1"><s ac="248">Russian</s><s t="720" ac="248"> star</s><s t="900" ac="248"> figure</s><s t="1199" ac="248"> skater</s><s t="1500" ac="248"> Camila</s><s t="1919" ac="224"> Bal</s></p>
+<p t="148430" d="1990" w="1" a="1">
+</p>
+<p t="148440" d="3900" w="1"><s ac="238">yeva</s><s t="540" ac="248"> was</s><s t="659" ac="248"> found</s><s t="780" ac="248"> to</s><s t="960" ac="241"> have</s><s t="1080" ac="247"> tested</s><s t="1500" ac="248"> positive</s></p>
+<p t="150410" d="1930" w="1" a="1">
+</p>
+<p t="150420" d="4140" w="1"><s ac="248">for</s><s t="300" ac="248"> a</s><s t="420" ac="246"> banned</s><s t="780" ac="248"> substance</s><s t="1080" ac="248"> but</s><s t="1319" ac="248"> she</s><s t="1500" ac="248"> was</s><s t="1679" ac="248"> still</s></p>
+<p t="152330" d="2230" w="1" a="1">
+</p>
+<p t="152340" d="4380" w="1"><s ac="248">allowed</s><s t="420" ac="248"> to</s><s t="600" ac="246"> compete</s><s t="1020" ac="248"> in</s><s t="1259" ac="248"> Beijing</s><s t="1619" ac="248"> last</s><s t="1979" ac="248"> year</s></p>
+<p t="154550" d="2170" w="1" a="1">
+</p>
+<p t="154560" d="3840" w="1"><s ac="248">months</s><s t="840" ac="248"> of</s><s t="960" ac="248"> international</s><s t="1140" ac="248"> legal</s><s t="1800" ac="248"> wrangling</s></p>
+<p t="156710" d="1690" w="1" a="1">
+</p>
+<p t="156720" d="3599" w="1"><s ac="248">followed</s><s t="480" ac="248"> leading</s><s t="840" ac="248"> to</s><s t="900" ac="245"> this</s><s t="1140" ac="248"> week&#39;s</s><s t="1500" ac="248"> final</s></p>
+<p t="158390" d="1929" w="1" a="1">
+</p>
+<p t="158400" d="4919" w="1"><s ac="248">hearing</s><s t="479" ac="248"> before</s><s t="660" ac="248"> the</s><s t="960" ac="248"> court</s><s t="1080" ac="248"> of</s><s t="1380" ac="248"> arbitration</s></p>
+<p t="160309" d="3010" w="1" a="1">
+</p>
+<p t="160319" d="4560" w="1"><s ac="248">for</s><s t="361" ac="248"> sport</s><s t="601" ac="248"> U.S</s><s t="1560" ac="248"> Gator</s><s t="1861" ac="246"> Vincent</s><s t="2280" ac="248"> Joe</s><s t="2461" ac="247"> says</s><s t="2821" ac="248"> he</s></p>
+<p t="163309" d="1570" w="1" a="1">
+</p>
+<p t="163319" d="3841" w="1"><s ac="248">wanted</s><s t="181" ac="248"> to</s><s t="420" ac="248"> be</s><s t="541" ac="248"> present</s><s t="780" ac="245"> for</s><s t="1021" ac="248"> the</s><s t="1140" ac="248"> hearing</s><s t="1381" ac="248"> but</s></p>
+<p t="164869" d="2291" w="1" a="1">
+</p>
+<p t="164879" d="4860" w="1"><s ac="248">was</s><s t="241" ac="248"> denied</s><s t="661" ac="248"> that</s><s t="1201" ac="248"> just</s><s t="1381" ac="248"> adds</s><s t="1741" ac="248"> another</s><s t="1801" ac="247"> layer</s></p>
+<p t="167150" d="2589" w="1" a="1">
+</p>
+<p t="167160" d="4500" w="1"><s ac="248">of</s><s t="180" ac="248"> obscurity</s><s t="840" ac="248"> to</s><s t="1380" ac="248"> you</s><s t="1920" ac="248"> know</s><s t="1980" ac="248"> you</s><s t="2219" ac="248"> know</s><s t="2400" ac="248"> what</s></p>
+<p t="169729" d="1931" w="1" a="1">
+</p>
+<p t="169739" d="3360" w="1"><s ac="248">really</s><s t="181" ac="247"> goes</s><s t="601" ac="248"> on</s><s t="661" ac="248"> behind</s><s t="1080" ac="248"> closed</s><s t="1441" ac="248"> doors</s><s t="1681" ac="248"> what</s></p>
+<p t="171650" d="1449" w="1" a="1">
+</p>
+<p t="171660" d="3900" w="1"><s ac="248">sorts</s><s t="299" ac="248"> of</s><s t="359" ac="246"> conversations</s><s t="780" ac="248"> are</s><s t="1079" ac="248"> they</s><s t="1260" ac="248"> having</s></p>
+<p t="173089" d="2471" w="1" a="1">
+</p>
+<p t="173099" d="4500" w="1"><s ac="248">you</s><s t="360" ac="248"> know</s><s t="420" ac="248"> like</s><s t="961" ac="248"> why</s><s t="1321" ac="248"> don&#39;t</s><s t="1500" ac="248"> they</s><s t="1681" ac="248"> want</s><s t="1920" ac="248"> us</s><s t="2101" ac="248"> to</s></p>
+<p t="175550" d="2049" w="1" a="1">
+</p>
+<p t="175560" d="3660" w="1"><s ac="248">to</s><s t="179" ac="248"> see</s><s t="420" ac="244"> valuable</s><s t="1200" ac="247"> faces</s><s t="1560" ac="248"> a</s><s t="1800" ac="247"> possible</s></p>
+<p t="177589" d="1631" w="1" a="1">
+</p>
+<p t="177599" d="3841" w="1"><s ac="248">multi-year</s><s t="601" ac="246"> suspension</s><s t="1201" ac="248"> from</s><s t="1441" ac="248"> figure</s></p>
+<p t="179210" d="2230" w="1" a="1">
+</p>
+<p t="179220" d="4320" w="1"><s ac="248">skating</s><s t="480" ac="248"> if</s><s t="1019" ac="248"> she</s><s t="1200" ac="248"> and</s><s t="1320" ac="248"> her</s><s t="1500" ac="248"> Russian</s><s t="1799" ac="248"> team</s><s t="1920" ac="248"> are</s></p>
+<p t="181430" d="2110" w="1" a="1">
+</p>
+<p t="181440" d="4320" w="1"><s ac="246">disqualified</s><s t="600" ac="238"> U.S</s><s t="1200" ac="248"> team</s><s t="1379" ac="237"> skaters</s><s t="1920" ac="248"> will</s></p>
+<p t="183530" d="2230" w="1" a="1">
+</p>
+<p t="183540" d="4500" w="1"><s ac="248">receive</s><s t="300" ac="248"> a</s><s t="479" ac="248"> gold</s><s t="600" ac="248"> medal</s><s t="1080" ac="248"> it&#39;s</s><s t="1500" ac="248"> not</s><s t="1740" ac="248"> clear</s><s t="1919" ac="248"> when</s></p>
+<p t="185750" d="2290" w="1" a="1">
+</p>
+<p t="185760" d="7040" w="1"><s ac="248">a</s><s t="240" ac="248"> final</s><s t="360" ac="248"> ruling</s><s t="839" ac="248"> will</s><s t="960" ac="248"> be</s><s t="1140" ac="248"> issued</s><s t="1500" ac="248"> Brian</s><s t="1800" ac="245"> Mann</s></p>
+<p t="188030" d="4770" w="1" a="1">
+</p>
+<p t="188040" d="4760" w="1"><s ac="248">NPR</s><s t="360" ac="243"> news</s><s t="839" ac="248"> this</s><s t="1680" ac="207"> is</s><s t="2100" ac="247"> NPR</s></p>
+</body>
+</timedtext>

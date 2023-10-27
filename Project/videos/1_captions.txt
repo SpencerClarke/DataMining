@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="520" d="4640" w="1"><s ac="0">gaza&#39;s</s><s t="480" ac="0"> Health</s><s t="720" ac="0"> Ministry</s><s t="1120" ac="0"> says</s><s t="1560" ac="0"> more</s><s t="1800" ac="0"> than</s></p>
+<p t="2590" d="2570" w="1" a="1">
+</p>
+<p t="2600" d="5000" w="1"><s ac="0">6,500</s><s t="1000" ac="0"> people</s><s t="1279" ac="0"> have</s><s t="1440" ac="0"> been</s><s t="1679" ac="0"> killed</s><s t="1960" ac="0"> in</s><s t="2120" ac="0"> Israeli</s></p>
+<p t="5150" d="2450" w="1" a="1">
+</p>
+<p t="5160" d="4200" w="1"><s ac="0">air</s><s t="280" ac="0"> strikes</s><s t="840" ac="0"> which</s><s t="1040" ac="0"> continued</s><s t="1639" ac="0"> overnight</s></p>
+<p t="7590" d="1770" w="1" a="1">
+</p>
+<p t="7600" d="3560" w="1"><s ac="0">and</s><s t="279" ac="0"> the</s><s t="440" ac="0"> House</s><s t="640" ac="0"> of</s><s t="800" ac="0"> Representatives</s><s t="1560" ac="0"> is</s></p>
+<p t="9350" d="1810" w="1" a="1">
+</p>
+<p t="9360" d="4439" w="1"><s ac="0">expected</s><s t="400" ac="0"> to</s><s t="520" ac="0"> vote</s><s t="760" ac="0"> today</s><s t="1000" ac="0"> on</s><s t="1279" ac="0"> Congressman</s></p>
+<p t="11150" d="2649" w="1" a="1">
+</p>
+<p t="11160" d="4959" w="1"><s ac="0">Mike</s><s t="240" ac="0"> Johnson&#39;s</s><s t="760" ac="0"> bid</s><s t="1160" ac="0"> to</s><s t="1320" ac="0"> be</s><s t="1519" ac="0"> speaker</s><s t="2479" ac="0"> good</s></p>
+<p t="13789" d="2330" w="1" a="1">
+</p>
+<p t="13799" d="4441" w="1"><s ac="0">morning</s><s t="441" ac="0"> I&#39;m</s><s t="601" ac="0"> Corva</s><s t="960" ac="0"> Coleman</s><s t="1321" ac="0"> from</s><s t="1481" ac="0"> NPR</s><s t="1960" ac="0"> news</s></p>
+<p t="16109" d="2131" w="1" a="1">
+</p>
+<p t="16119" d="3801" w="1"><s ac="0">and</s><s t="201" ac="0"> here</s><s t="401" ac="0"> are</s><s t="601" ac="0"> today&#39;s</s><s t="961" ac="0"> top</s><s t="1201" ac="0"> stories</s><s t="2041" ac="0"> the</s></p>
+<p t="18230" d="1690" w="1" a="1">
+</p>
+<p t="18240" d="3799" w="1"><s ac="0">Israeli</s><s t="440" ac="0"> military</s><s t="840" ac="0"> says</s><s t="1080" ac="0"> it</s><s t="1240" ac="0"> carried</s><s t="1520" ac="0"> out</s></p>
+<p t="19910" d="2129" w="1" a="1">
+</p>
+<p t="19920" d="4320" w="1"><s ac="0">more</s><s t="160" ac="0"> than</s><s t="359" ac="0"> 400</s><s t="960" ac="0"> air</s><s t="1160" ac="0"> strikes</s><s t="1519" ac="0"> on</s><s t="1720" ac="0"> Gaza</s></p>
+<p t="22029" d="2211" w="1" a="1">
+</p>
+<p t="22039" d="4961" w="1"><s ac="0">yesterday</s><s t="601" ac="0"> and</s><s t="721" ac="0"> the</s><s t="841" ac="0"> bombing</s><s t="1281" ac="0"> did</s><s t="1521" ac="0"> not</s><s t="1761" ac="0"> stop</s></p>
+<p t="24230" d="2770" w="1" a="1">
+</p>
+<p t="24240" d="5119" w="1"><s ac="0">overnight</s><s t="760" ac="0"> NPR&#39;s</s><s t="1279" ac="0"> Peter</s><s t="1520" ac="0"> Kenyan</s><s t="1959" ac="0"> reports</s><s t="2600" ac="0"> the</s></p>
+<p t="26990" d="2369" w="1" a="1">
+</p>
+<p t="27000" d="5239" w="1"><s ac="0">Hamas</s><s t="359" ac="0"> run</s><s t="679" ac="0"> Gaza</s><s t="1080" ac="0"> Health</s><s t="1359" ac="0"> Ministry</s><s t="1880" ac="0"> says</s><s t="2160" ac="0"> more</s></p>
+<p t="29349" d="2890" w="1" a="1">
+</p>
+<p t="29359" d="6200" w="1"><s ac="0">than</s><s t="160" ac="0"> 6</s><s t="721" ac="0"> 500</s><s t="1281" ac="0"> people</s><s t="1601" ac="0"> have</s><s t="1760" ac="0"> been</s><s t="2041" ac="0"> killed</s><s t="2441" ac="0"> there</s></p>
+<p t="32229" d="3330" w="1" a="1">
+</p>
+<p t="32239" d="5160" w="1"><s ac="0">and</s><s t="241" ac="0"> 2700</s><s t="1241" ac="0"> of</s><s t="1401" ac="0"> them</s><s t="1681" ac="0"> are</s><s t="1961" ac="0"> children</s><s t="2840" ac="0"> the</s><s t="2961" ac="0"> Hamas</s></p>
+<p t="35549" d="1850" w="1" a="1">
+</p>
+<p t="35559" d="3840" w="1"><s ac="0">run</s><s t="281" ac="0"> interior</s><s t="721" ac="0"> Ministry</s><s t="1121" ac="0"> says</s><s t="1361" ac="0"> the</s><s t="1520" ac="0"> quote</s></p>
+<p t="37389" d="2010" w="1" a="1">
+</p>
+<p t="37399" d="3521" w="1"><s ac="0">massive</s><s t="320" ac="0"> air</s><s t="641" ac="0"> bombardment</s><s t="1241" ac="0"> pounded</s><s t="1641" ac="0"> Gaza</s></p>
+<p t="39389" d="1531" w="1" a="1">
+</p>
+<p t="39399" d="3601" w="1"><s ac="0">overnight</s><s t="761" ac="0"> contributing</s><s t="1241" ac="0"> to</s><s t="1401" ac="0"> the</s></p>
+<p t="40910" d="2090" w="1" a="1">
+</p>
+<p t="40920" d="4799" w="1"><s ac="0">unprecedented</s><s t="760" ac="0"> death</s><s t="959" ac="0"> toll</s><s t="1280" ac="0"> since</s><s t="1479" ac="0"> the</s><s t="1639" ac="0"> Hamas</s></p>
+<p t="42990" d="2729" w="1" a="1">
+</p>
+<p t="43000" d="4559" w="1"><s ac="0">attack</s><s t="280" ac="0"> on</s><s t="480" ac="0"> October</s><s t="960" ac="0"> 7th</s><s t="1960" ac="0"> the</s><s t="2079" ac="0"> attacks</s><s t="2440" ac="0"> came</s></p>
+<p t="45709" d="1850" w="1" a="1">
+</p>
+<p t="45719" d="4000" w="1"><s ac="0">as</s><s t="241" ac="0"> Gaza</s><s t="601" ac="0"> continues</s><s t="1000" ac="0"> to</s><s t="1160" ac="0"> suffer</s><s t="1520" ac="0"> severe</s></p>
+<p t="47549" d="2170" w="1" a="1">
+</p>
+<p t="47559" d="3881" w="1"><s ac="0">shortages</s><s t="480" ac="0"> of</s><s t="640" ac="0"> food</s><s t="1000" ac="0"> water</s><s t="1241" ac="0"> and</s><s t="1401" ac="0"> Medicine</s></p>
+<p t="49709" d="1731" w="1" a="1">
+</p>
+<p t="49719" d="4241" w="1"><s ac="0">despite</s><s t="360" ac="0"> the</s><s t="480" ac="0"> arrival</s><s t="881" ac="0"> of</s><s t="1000" ac="0"> some</s><s t="1201" ac="0"> truckloads</s></p>
+<p t="51430" d="2530" w="1" a="1">
+</p>
+<p t="51440" d="4560" w="1"><s ac="0">filled</s><s t="320" ac="0"> with</s><s t="480" ac="0"> humanitarian</s><s t="1160" ac="0"> Aid</s><s t="2040" ac="0"> separately</s></p>
+<p t="53950" d="2050" w="1" a="1">
+</p>
+<p t="53960" d="4200" w="1"><s ac="0">the</s><s t="160" ac="0"> IDF</s><s t="560" ac="0"> said</s><s t="800" ac="0"> it</s><s t="919" ac="0"> thwarted</s><s t="1320" ac="0"> an</s><s t="1480" ac="0"> assault</s><s t="1840" ac="0"> by</s><s t="1960" ac="0"> a</s></p>
+<p t="55990" d="2170" w="1" a="1">
+</p>
+<p t="56000" d="4719" w="1"><s ac="0">group</s><s t="199" ac="0"> of</s><s t="359" ac="0"> Hamas</s><s t="719" ac="0"> militants</s><s t="1440" ac="0"> who</s><s t="1600" ac="0"> came</s><s t="1760" ac="0"> ashore</s></p>
+<p t="58150" d="2569" w="1" a="1">
+</p>
+<p t="58160" d="4719" w="1"><s ac="0">on</s><s t="160" ac="0"> an</s><s t="280" ac="0"> Israeli</s><s t="719" ac="0"> Beach</s><s t="1079" ac="0"> just</s><s t="1239" ac="0"> north</s><s t="1440" ac="0"> of</s><s t="1600" ac="0"> G</s><s t="1800" ac="0"> Gaza</s></p>
+<p t="60709" d="2170" w="1" a="1">
+</p>
+<p t="60719" d="5201" w="1"><s ac="0">Israel</s><s t="480" ac="0"> responded</s><s t="921" ac="0"> with</s><s t="1081" ac="0"> airc</s><s t="1640" ac="0"> and</s><s t="1800" ac="0"> ground</s></p>
+<p t="62869" d="3051" w="1" a="1">
+</p>
+<p t="62879" d="5041" w="1"><s ac="0">forces</s><s t="1000" ac="0"> Peter</s><s t="1320" ac="0"> Kenyan</s><s t="1680" ac="0"> NPR</s><s t="2081" ac="0"> news</s><s t="2360" ac="0"> Jerusalem</s></p>
+<p t="65910" d="2010" w="1" a="1">
+</p>
+<p t="65920" d="4000" w="1"><s ac="0">President</s><s t="360" ac="0"> Biden</s><s t="760" ac="0"> may</s><s t="1000" ac="0"> make</s><s t="1280" ac="0"> comments</s><s t="1640" ac="0"> today</s></p>
+<p t="67910" d="2010" w="1" a="1">
+</p>
+<p t="67920" d="4040" w="1"><s ac="0">about</s><s t="199" ac="0"> the</s><s t="320" ac="0"> war</s><s t="680" ac="0"> between</s><s t="1040" ac="0"> Israel</s><s t="1440" ac="0"> and</s><s t="1600" ac="0"> Hamas</s></p>
+<p t="69910" d="2050" w="1" a="1">
+</p>
+<p t="69920" d="4040" w="1"><s ac="0">militants</s><s t="839" ac="0"> he&#39;ll</s><s t="1080" ac="0"> also</s><s t="1280" ac="0"> be</s><s t="1440" ac="0"> welcoming</s><s t="1879" ac="0"> the</s></p>
+<p t="71950" d="2010" w="1" a="1">
+</p>
+<p t="71960" d="4440" w="1"><s ac="0">Prime</s><s t="280" ac="0"> Minister</s><s t="680" ac="0"> of</s><s t="839" ac="0"> Australia</s><s t="1440" ac="0"> to</s><s t="1600" ac="0"> the</s><s t="1720" ac="0"> White</s></p>
+<p t="73950" d="2450" w="1" a="1">
+</p>
+<p t="73960" d="4400" w="1"><s ac="0">House</s><s t="519" ac="0"> Australian</s><s t="1000" ac="0"> leader</s><s t="1320" ac="0"> Anthony</s><s t="1680" ac="0"> albanesi</s></p>
+<p t="76390" d="1970" w="1" a="1">
+</p>
+<p t="76400" d="4240" w="1"><s ac="0">will</s><s t="359" ac="0"> also</s><s t="640" ac="0"> be</s><s t="840" ac="0"> the</s><s t="960" ac="0"> guest</s><s t="1160" ac="0"> of</s><s t="1320" ac="0"> honor</s><s t="1600" ac="0"> tonight</s></p>
+<p t="78350" d="2290" w="1" a="1">
+</p>
+<p t="78360" d="4360" w="1"><s ac="0">at</s><s t="119" ac="0"> a</s><s t="280" ac="0"> White</s><s t="520" ac="0"> House</s><s t="640" ac="0"> State</s><s t="920" ac="0"> Dinner</s><s t="1920" ac="0"> the</s><s t="2079" ac="0"> House</s></p>
+<p t="80630" d="2090" w="1" a="1">
+</p>
+<p t="80640" d="4439" w="1"><s ac="0">of</s><s t="240" ac="0"> Representatives</s><s t="1080" ac="0"> is</s><s t="1320" ac="0"> expected</s><s t="1680" ac="0"> to</s><s t="1839" ac="0"> vote</s></p>
+<p t="82710" d="2369" w="1" a="1">
+</p>
+<p t="82720" d="4359" w="1"><s ac="0">today</s><s t="280" ac="0"> to</s><s t="480" ac="0"> elect</s><s t="800" ac="0"> a</s><s t="960" ac="0"> speaker</s><s t="1840" ac="0"> Republicans</s></p>
+<p t="85069" d="2010" w="1" a="1">
+</p>
+<p t="85079" d="5000" w="1"><s ac="0">have</s><s t="241" ac="0"> nominated</s><s t="801" ac="0"> Louisiana</s><s t="1481" ac="0"> Congressman</s></p>
+<p t="87069" d="3010" w="1" a="1">
+</p>
+<p t="87079" d="5680" w="1"><s ac="0">Mike</s><s t="281" ac="0"> Johnson</s><s t="1000" ac="0"> andp</s><s t="1481" ac="0"> juror</s><s t="1881" ac="0"> Walsh</s><s t="2201" ac="0"> reports</s><s t="2561" ac="0"> he</s></p>
+<p t="90069" d="2690" w="1" a="1">
+</p>
+<p t="90079" d="5201" w="1"><s ac="0">the</s><s t="161" ac="0"> fourth</s><s t="601" ac="0"> nominee</s><s t="1161" ac="0"> in</s><s t="1400" ac="0"> 3</s><s t="1680" ac="0"> weeks</s><s t="2080" ac="0"> the</s><s t="2201" ac="0"> GOP</s></p>
+<p t="92749" d="2531" w="1" a="1">
+</p>
+<p t="92759" d="5400" w="1"><s ac="0">hopes</s><s t="521" ac="0"> can</s><s t="720" ac="0"> get</s><s t="881" ac="0"> the</s><s t="1040" ac="0"> gavl</s><s t="1720" ac="0"> Johnson</s><s t="2161" ac="0"> won</s><s t="2360" ac="0"> the</s></p>
+<p t="95270" d="2889" w="1" a="1">
+</p>
+<p t="95280" d="5440" w="1"><s ac="0">House</s><s t="240" ac="0"> GOP</s><s t="799" ac="0"> vote</s><s t="1199" ac="0"> after</s><s t="1479" ac="0"> multiple</s><s t="1960" ac="0"> ballots</s></p>
+<p t="98149" d="2571" w="1" a="1">
+</p>
+<p t="98159" d="5240" w="1"><s ac="0">and</s><s t="201" ac="0"> just</s><s t="481" ac="0"> hours</s><s t="960" ac="0"> after</s><s t="1280" ac="0"> another</s><s t="1721" ac="0"> Republican</s></p>
+<p t="100710" d="2689" w="1" a="1">
+</p>
+<p t="100720" d="4920" w="1"><s ac="0">Tom</s><s t="320" ac="0"> emmer</s><s t="719" ac="0"> from</s><s t="920" ac="0"> Minnesota</s><s t="1840" ac="0"> was</s><s t="2079" ac="0"> nominated</s></p>
+<p t="103389" d="2251" w="1" a="1">
+</p>
+<p t="103399" d="4320" w="1"><s ac="0">but</s><s t="161" ac="0"> was</s><s t="321" ac="0"> forced</s><s t="680" ac="0"> to</s><s t="841" ac="0"> withdraw</s><s t="1680" ac="0"> because</s><s t="2040" ac="0"> he</s></p>
+<p t="105630" d="2089" w="1" a="1">
+</p>
+<p t="105640" d="4320" w="1"><s ac="0">couldn&#39;t</s><s t="320" ac="0"> lock</s><s t="600" ac="0"> down</s><s t="759" ac="0"> the</s><s t="880" ac="0"> votes</s><s t="1159" ac="0"> for</s><s t="1400" ac="0"> a</s><s t="1600" ac="0"> full</s></p>
+<p t="107709" d="2251" w="1" a="1">
+</p>
+<p t="107719" d="4040" w="1"><s ac="0">house</s><s t="281" ac="0"> vote</s><s t="921" ac="0"> Johnson</s><s t="1400" ac="0"> vowed</s><s t="1760" ac="0"> he&#39;ll</s><s t="1961" ac="0"> get</s><s t="2121" ac="0"> the</s></p>
+<p t="109950" d="1809" w="1" a="1">
+</p>
+<p t="109960" d="3400" w="1"><s ac="0">house</s><s t="280" ac="0"> back</s><s t="439" ac="0"> to</s><s t="640" ac="0"> work</s><s t="1159" ac="0"> we&#39;re</s><s t="1280" ac="0"> going</s><s t="1400" ac="0"> to</s><s t="1519" ac="0"> serve</s></p>
+<p t="111749" d="1611" w="1" a="1">
+</p>
+<p t="111759" d="4400" w="1"><s ac="0">the</s><s t="241" ac="0"> people</s><s t="640" ac="0"> of</s><s t="801" ac="0"> this</s><s t="1000" ac="0"> country</s><s t="1400" ac="0"> we&#39;re</s><s t="1521" ac="0"> going</s></p>
+<p t="113350" d="2809" w="1" a="1">
+</p>
+<p t="113360" d="4520" w="1"><s ac="0">to</s><s t="160" ac="0"> restore</s><s t="600" ac="0"> their</s><s t="880" ac="0"> faith</s><s t="1640" ac="0"> in</s><s t="1880" ac="0"> this</s><s t="2160" ac="0"> Congress</s></p>
+<p t="116149" d="1731" w="1" a="1">
+</p>
+<p t="116159" d="3041" w="1"><s ac="0">you&#39;re</s><s t="161" ac="0"> going</s><s t="240" ac="0"> to</s><s t="361" ac="0"> see</s><s t="560" ac="0"> a</s><s t="681" ac="0"> new</s><s t="1280" ac="0"> form</s><s t="1560" ac="0"> of</s></p>
+<p t="117870" d="1330" w="1" a="1">
+</p>
+<p t="117880" d="3960" w="1"><s ac="0">government</s><s t="360" ac="0"> and</s><s t="480" ac="0"> we</s><s t="559" ac="0"> are</s><s t="680" ac="0"> going</s><s t="760" ac="0"> to</s><s t="879" ac="0"> move</s><s t="1120" ac="0"> this</s></p>
+<p t="119190" d="2650" w="1" a="1">
+</p>
+<p t="119200" d="4599" w="1"><s ac="0">quickly</s><s t="760" ac="0"> this</s><s t="1000" ac="0"> group</s><s t="1400" ac="0"> here</s><s t="1800" ac="0"> is</s><s t="2040" ac="0"> ready</s><s t="2400" ac="0"> to</s></p>
+<p t="121830" d="1969" w="1" a="1">
+</p>
+<p t="121840" d="4879" w="1"><s ac="0">govern</s><s t="440" ac="0"> Johnson</s><s t="840" ac="0"> needs</s><s t="1160" ac="0"> the</s><s t="1319" ac="0"> support</s><s t="1720" ac="0"> of</s></p>
+<p t="123789" d="2930" w="1" a="1">
+</p>
+<p t="123799" d="5001" w="1"><s ac="0">almost</s><s t="441" ac="0"> all</s><s t="761" ac="0"> House</s><s t="1360" ac="0"> Republicans</s><s t="2360" ac="0"> if</s><s t="2521" ac="0"> he</s><s t="2640" ac="0"> gets</s></p>
+<p t="126709" d="2091" w="1" a="1">
+</p>
+<p t="126719" d="4160" w="1"><s ac="0">the</s><s t="161" ac="0"> votes</s><s t="561" ac="0"> the</s><s t="680" ac="0"> new</s><s t="1080" ac="0"> speaker</s><s t="1441" ac="0"> starts</s><s t="1801" ac="0"> with</s></p>
+<p t="128790" d="2089" w="1" a="1">
+</p>
+<p t="128800" d="4000" w="1"><s ac="0">immediate</s><s t="560" ac="0"> challenges</s><s t="1519" ac="0"> he&#39;ll</s><s t="1720" ac="0"> need</s><s t="1879" ac="0"> to</s></p>
+<p t="130869" d="1931" w="1" a="1">
+</p>
+<p t="130879" d="4640" w="1"><s ac="0">negotiate</s><s t="481" ac="0"> a</s><s t="641" ac="0"> deal</s><s t="961" ac="0"> to</s><s t="1161" ac="0"> avoid</s><s t="1440" ac="0"> a</s><s t="1561" ac="0"> government</s></p>
+<p t="132790" d="2729" w="1" a="1">
+</p>
+<p t="132800" d="4680" w="1"><s ac="0">shutdown</s><s t="560" ac="0"> next</s><s t="799" ac="0"> month</s><s t="1439" ac="0"> and</s><s t="1640" ac="0"> navigate</s><s t="2200" ac="0"> a</s><s t="2360" ac="0"> large</s></p>
+<p t="135509" d="1971" w="1" a="1">
+</p>
+<p t="135519" d="5241" w="1"><s ac="0">foreign</s><s t="440" ac="0"> aid</s><s t="761" ac="0"> package</s><s t="1080" ac="0"> for</s><s t="1360" ac="0"> Israel</s><s t="1761" ac="0"> and</s></p>
+<p t="137470" d="3290" w="1" a="1">
+</p>
+<p t="137480" d="5960" w="1"><s ac="0">Ukraine</s><s t="839" ac="0"> dearra</s><s t="1360" ac="0"> Walsh</s><s t="1759" ac="0"> NPR</s><s t="2240" ac="0"> news</s><s t="2800" ac="0"> the</s><s t="2920" ac="0"> Senate</s></p>
+<p t="140750" d="2690" w="1" a="1">
+</p>
+<p t="140760" d="4759" w="1"><s ac="0">has</s><s t="160" ac="0"> voted</s><s t="520" ac="0"> 98</s><s t="1040" ac="0"> to0</s><s t="1640" ac="0"> to</s><s t="1839" ac="0"> approve</s><s t="2320" ac="0"> President</s></p>
+<p t="143430" d="2089" w="1" a="1">
+</p>
+<p t="143440" d="4799" w="1"><s ac="0">Biden&#39;s</s><s t="480" ac="0"> nominee</s><s t="1000" ac="0"> to</s><s t="1159" ac="0"> be</s><s t="1320" ac="0"> the</s><s t="1439" ac="0"> chief</s><s t="1720" ac="0"> of</s><s t="1879" ac="0"> the</s></p>
+<p t="145509" d="2730" w="1" a="1">
+</p>
+<p t="145519" d="5601" w="1"><s ac="0">Federal</s><s t="521" ac="0"> Aviation</s><s t="1360" ac="0"> Administration</s><s t="2360" ac="0"> Michael</s></p>
+<p t="148229" d="2891" w="1" a="1">
+</p>
+<p t="148239" d="5000" w="1"><s ac="0">Whitaker</s><s t="481" ac="0"> is</s><s t="601" ac="0"> a</s><s t="801" ac="0"> former</s><s t="1201" ac="0"> fa</s><s t="1601" ac="0"> AA</s><s t="2121" ac="0"> Deputy</s></p>
+<p t="151110" d="2129" w="1" a="1">
+</p>
+<p t="151120" d="4600" w="1"><s ac="0">Administrator</s><s t="1000" ac="0"> an</s><s t="1199" ac="0"> off-duty</s><s t="1560" ac="0"> Alaska</s></p>
+<p t="153229" d="2491" w="1" a="1">
+</p>
+<p t="153239" d="5161" w="1"><s ac="0">Airlines</s><s t="601" ac="0"> pilot</s><s t="961" ac="0"> is</s><s t="1121" ac="0"> facing</s><s t="1601" ac="0"> scores</s><s t="2280" ac="0"> of</s></p>
+<p t="155710" d="2690" w="1" a="1">
+</p>
+<p t="155720" d="5480" w="1"><s ac="0">federal</s><s t="519" ac="0"> and</s><s t="680" ac="0"> Oregon</s><s t="1120" ac="0"> State</s><s t="1400" ac="0"> charges</s><s t="2280" ac="0"> Joseph</s></p>
+<p t="158390" d="2810" w="1" a="1">
+</p>
+<p t="158400" d="5199" w="1"><s ac="0">Emerson</s><s t="600" ac="0"> tried</s><s t="1000" ac="0"> to</s><s t="1280" ac="0"> cut</s><s t="1479" ac="0"> off</s><s t="1640" ac="0"> a</s><s t="1839" ac="0"> Jets</s><s t="2160" ac="0"> engines</s></p>
+<p t="161190" d="2409" w="1" a="1">
+</p>
+<p t="161200" d="4840" w="1"><s ac="0">mid-flight</s><s t="720" ac="0"> on</s><s t="959" ac="0"> Sunday</s><s t="1720" ac="0"> he</s><s t="1840" ac="0"> was</s><s t="2000" ac="0"> riding</s><s t="2280" ac="0"> in</s></p>
+<p t="163589" d="2451" w="1" a="1">
+</p>
+<p t="163599" d="4681" w="1"><s ac="0">the</s><s t="241" ac="0"> cockpit</s><s t="761" ac="0"> with</s><s t="920" ac="0"> the</s><s t="1121" ac="0"> crew</s><s t="1441" ac="0"> on</s><s t="1681" ac="0"> duty</s><s t="2280" ac="0"> who</s></p>
+<p t="166030" d="2250" w="1" a="1">
+</p>
+<p t="166040" d="4680" w="1"><s ac="0">overpowered</s><s t="600" ac="0"> him</s><s t="800" ac="0"> before</s><s t="1119" ac="0"> he</s><s t="1240" ac="0"> could</s><s t="1440" ac="0"> do</s><s t="1640" ac="0"> it</s></p>
+<p t="168270" d="2450" w="1" a="1">
+</p>
+<p t="168280" d="5039" w="1"><s ac="0">Aubrey</s><s t="440" ac="0"> glla</s><s t="879" ac="0"> was</s><s t="1039" ac="0"> aboard</s><s t="1480" ac="0"> that</s><s t="1640" ac="0"> flight</s><s t="2000" ac="0"> too</s></p>
+<p t="170710" d="2609" w="1" a="1">
+</p>
+<p t="170720" d="5280" w="1"><s ac="0">and</s><s t="120" ac="0"> she</s><s t="320" ac="0"> says</s><s t="680" ac="0"> the</s><s t="920" ac="0"> passengers</s><s t="1480" ac="0"> were</s><s t="1760" ac="0"> rattled</s></p>
+<p t="173309" d="2691" w="1" a="1">
+</p>
+<p t="173319" d="4801" w="1"><s ac="0">no</s><s t="161" ac="0"> fight</s><s t="481" ac="0"> no</s><s t="640" ac="0"> commotion</s><s t="1361" ac="0"> um</s><s t="1961" ac="0"> just</s><s t="2241" ac="0"> nervous</s></p>
+<p t="175990" d="2130" w="1" a="1">
+</p>
+<p t="176000" d="4879" w="1"><s ac="0">passengers</s><s t="440" ac="0"> but</s><s t="640" ac="0"> quietly</s><s t="1000" ac="0"> nervous</s><s t="1599" ac="0"> Emerson</s></p>
+<p t="178110" d="2769" w="1" a="1">
+</p>
+<p t="178120" d="5600" w="1"><s ac="0">meanwhile</s><s t="479" ac="0"> faces</s><s t="960" ac="0"> 83</s><s t="1759" ac="0"> accounts</s><s t="2039" ac="0"> of</s><s t="2280" ac="0"> attempted</s></p>
+<p t="180869" d="2851" w="1" a="1">
+</p>
+<p t="180879" d="5080" w="1"><s ac="0">murder</s><s t="561" ac="0"> in</s><s t="761" ac="0"> Oregon</s><s t="1761" ac="0"> police</s><s t="2121" ac="0"> in</s><s t="2360" ac="0"> Portland</s></p>
+<p t="183710" d="2249" w="1" a="1">
+</p>
+<p t="183720" d="4760" w="1"><s ac="0">released</s><s t="599" ac="0"> information</s><s t="1360" ac="0"> yesterday</s><s t="1879" ac="0"> about</s><s t="2120" ac="0"> the</s></p>
+<p t="185949" d="2531" w="1" a="1">
+</p>
+<p t="185959" d="5121" w="1"><s ac="0">off-duty</s><s t="441" ac="0"> pilot</s><s t="1441" ac="0"> they</s><s t="1560" ac="0"> say</s><s t="1840" ac="0"> Emerson</s><s t="2241" ac="0"> told</s></p>
+<p t="188470" d="2610" w="1" a="1">
+</p>
+<p t="188480" d="6920" w="1"><s ac="0">them</s><s t="240" ac="0"> he&#39;</s><s t="440" ac="0"> taken</s><s t="839" ac="0"> hallucinogenic</s><s t="1800" ac="0"> mushrooms</s></p>
+<p t="191070" d="4330" w="1" a="1">
+</p>
+<p t="191080" d="7320" w="1"><s ac="0">2</s><s t="280" ac="0"> days</s><s t="600" ac="0"> before</s><s t="879" ac="0"> the</s><s t="1159" ac="0"> flight</s><s t="2159" ac="0"> it&#39;s</s></p>
+<p t="195390" d="3010" w="1" a="1">
+</p>
+<p t="195400" d="3000" w="1"><s ac="0">NPR</s></p>
+</body>
+</timedtext>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="80" d="3680" w="1"><s ac="255">have</s><s t="160" ac="255"> you</s><s t="240" ac="255"> ever</s><s t="480" ac="255"> been</s><s t="719" ac="255"> scrolling</s><s t="1280" ac="255"> through</s></p>
+<p t="1510" d="2250" w="1" a="1">
+</p>
+<p t="1520" d="6000" w="1"><s ac="255">your</s><s t="240" ac="255"> feed</s><s t="720" ac="255"> and</s><s t="879" ac="255"> come</s><s t="1119" ac="255"> across</s><s t="1440" ac="255"> a</s><s t="1600" ac="255"> video</s><s t="2000" ac="255"> like</s></p>
+<p t="3750" d="3770" w="1" a="1">
+</p>
+<p t="3760" d="5520" w="1"><s ac="255">this</s><s t="800" ac="255"> someone</s><s t="1599" ac="255"> whispering</s><s t="2480" ac="255"> into</s><s t="2800" ac="255"> the</s><s t="2960" ac="255"> mic</s><s t="3599" ac="255"> and</s></p>
+<p t="7510" d="1770" w="1" a="1">
+</p>
+<p t="7520" d="2880" w="1"><s ac="255">you</s><s t="160" ac="255"> suddenly</s><s t="640" ac="255"> feel</s></p>
+<p t="9270" d="1130" w="1" a="1">
+</p>
+<p t="9280" d="2479" w="1"><s ac="255">tingles</s></p>
+<p t="10390" d="1369" w="1" a="1">
+</p>
+<p t="10400" d="4960" w="1"><s ac="255">in</s><s t="80" ac="255"> your</s><s t="319" ac="255"> brain</s></p>
+<p t="11749" d="3611" w="1" a="1">
+</p>
+<p t="11759" d="6561" w="1"><s ac="255">autonomous</s><s t="1121" ac="255"> sensory</s><s t="1920" ac="255"> meridian</s><s t="2721" ac="255"> response</s></p>
+<p t="15350" d="2970" w="1" a="1">
+</p>
+<p t="15360" d="6800" w="1"><s ac="255">asmr</s><s t="560" ac="255"> for</s><s t="800" ac="255"> short</s><s t="1360" ac="255"> it&#39;s</s><s t="1679" ac="255"> the</s><s t="1839" ac="255"> scientific</s><s t="2560" ac="255"> term</s></p>
+<p t="18310" d="3850" w="1" a="1">
+</p>
+<p t="18320" d="7600" w="1"><s ac="255">for</s><s t="320" ac="255"> a</s><s t="640" ac="255"> deep</s><s t="1200" ac="255"> relaxation</s><s t="2160" ac="255"> response</s><s t="2799" ac="255"> to</s><s t="3039" ac="255"> kind</s></p>
+<p t="22150" d="3770" w="1" a="1">
+</p>
+<p t="22160" d="6959" w="1"><s ac="255">gentle</s><s t="640" ac="255"> soft</s><s t="1279" ac="255"> voices</s><s t="1840" ac="255"> and</s><s t="2000" ac="255"> sounds</s></p>
+<p t="25910" d="3209" w="1" a="1">
+</p>
+<p t="25920" d="5679" w="1"><s ac="255">feels</s><s t="320" ac="255"> so</s><s t="560" ac="255"> good</s><s t="1279" ac="255"> but</s><s t="1519" ac="255"> why</s><s t="2000" ac="255"> what</s><s t="2320" ac="255"> is</s><s t="2560" ac="255"> happening</s></p>
+<p t="29109" d="2490" w="1" a="1">
+</p>
+<p t="29119" d="4721" w="1"><s ac="255">in</s><s t="80" ac="255"> your</s><s t="320" ac="255"> brain</s><s t="881" ac="255"> well</s><s t="1361" ac="255"> for</s><s t="1521" ac="255"> some</s><s t="1920" ac="255"> people</s></p>
+<p t="31589" d="2251" w="1" a="1">
+</p>
+<p t="31599" d="4561" w="1"><s ac="255">researchers</s><s t="561" ac="255"> find</s><s t="881" ac="255"> that</s><s t="1041" ac="255"> their</s><s t="1361" ac="255"> brain</s><s t="1761" ac="255"> reacts</s></p>
+<p t="33830" d="2330" w="1" a="1">
+</p>
+<p t="33840" d="4879" w="1"><s ac="255">to</s><s t="160" ac="255"> these</s><s t="320" ac="255"> videos</s><s t="1200" ac="255"> just</s><s t="1440" ac="255"> as</s><s t="1600" ac="255"> if</s><s t="1760" ac="255"> someone</s><s t="2160" ac="255"> was</s></p>
+<p t="36150" d="2569" w="1" a="1">
+</p>
+<p t="36160" d="5280" w="1"><s ac="255">speaking</s><s t="559" ac="255"> kindly</s><s t="1200" ac="255"> attentively</s><s t="1840" ac="255"> and</s><s t="2079" ac="255"> softly</s></p>
+<p t="38709" d="2731" w="1" a="1">
+</p>
+<p t="38719" d="5201" w="1"><s ac="255">to</s><s t="160" ac="255"> them</s><s t="561" ac="255"> in</s><s t="721" ac="255"> real</s><s t="961" ac="255"> life</s><s t="1441" ac="255"> it&#39;s</s><s t="1840" ac="255"> why</s><s t="2241" ac="255"> maybe</s><s t="2561" ac="255"> you</s></p>
+<p t="41430" d="2490" w="1" a="1">
+</p>
+<p t="41440" d="4560" w="1"><s ac="255">love</s><s t="320" ac="255"> the</s><s t="560" ac="255"> soft</s><s t="1119" ac="255"> touch</s><s t="1520" ac="255"> and</s><s t="1680" ac="255"> voice</s><s t="2080" ac="255"> of</s><s t="2240" ac="255"> your</s></p>
+<p t="43910" d="2090" w="1" a="1">
+</p>
+<p t="43920" d="5040" w="1"><s ac="255">hairdresser</s><s t="959" ac="255"> and</s><s t="1119" ac="255"> the</s><s t="1280" ac="255"> kind</s><s t="1680" ac="255"> caring</s></p>
+<p t="45990" d="2970" w="1" a="1">
+</p>
+<p t="46000" d="5760" w="1"><s ac="255">brushstrokes</s><s t="960" ac="255"> of</s><s t="1120" ac="255"> bob</s><s t="1440" ac="255"> ross</s><s t="2079" ac="255"> which</s><s t="2320" ac="255"> is</s><s t="2480" ac="255"> great</s></p>
+<p t="48950" d="2810" w="1" a="1">
+</p>
+<p t="48960" d="4560" w="1"><s ac="255">asmr</s><s t="640" ac="255"> is</s><s t="800" ac="255"> a</s><s t="1040" ac="255"> cheap</s><s t="1279" ac="255"> way</s><s t="1520" ac="255"> to</s><s t="1759" ac="255"> chill</s><s t="2000" ac="255"> the</s><s t="2160" ac="255"> f</s><s t="2400" ac="255"> out</s></p>
+<p t="51750" d="1770" w="1" a="1">
+</p>
+<p t="51760" d="4000" w="1"><s ac="255">like</s><s t="240" ac="255"> an</s><s t="400" ac="255"> easy</s><s t="720" ac="255"> supplement</s><s t="1360" ac="255"> to</s><s t="1439" ac="255"> a</s><s t="1520" ac="255"> good</s></p>
+<p t="53510" d="2250" w="1" a="1">
+</p>
+<p t="53520" d="4800" w="1"><s ac="255">night&#39;s</s><s t="240" ac="255"> sleep</s><s t="719" ac="255"> or</s><s t="960" ac="255"> a</s><s t="1039" ac="255"> nap</s><s t="1679" ac="255"> and</s><s t="1920" ac="255"> for</s><s t="2080" ac="255"> the</s></p>
+<p t="55750" d="2570" w="1" a="1">
+</p>
+<p t="55760" d="6439" w="1"><s ac="255">people</s><s t="319" ac="255"> who</s><s t="560" ac="255"> think</s><s t="799" ac="255"> it&#39;s</s><s t="1119" ac="255"> just</s><s t="1439" ac="255"> plain</s><s t="1840" ac="255"> weird</s></p>
+<p t="58310" d="3889" w="1" a="1">
+</p>
+<p t="58320" d="3879" w="1"><s ac="255">they</s><s t="160" ac="255"> don&#39;t</s><s t="399" ac="255"> know</s><s t="559" ac="255"> what</s><s t="640" ac="255"> they&#39;re</s><s t="879" ac="255"> missing</s></p>
+</body>
+</timedtext>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="480" d="4440" w="1"><s ac="248">the</s><s t="540" ac="248"> U.S</s><s t="780" ac="248"> is</s><s t="900" ac="248"> sending</s><s t="1260" ac="248"> reinforcements</s><s t="1980" ac="248"> to</s></p>
+<p t="2570" d="2350" w="1" a="1">
+</p>
+<p t="2580" d="4980" w="1"><s ac="248">Asia</s><s t="299" ac="248"> to</s><s t="599" ac="248"> reassure</s><s t="960" ac="248"> its</s><s t="1260" ac="248"> allies</s><s t="1560" ac="248"> and</s><s t="1980" ac="248"> deter</s></p>
+<p t="4910" d="2650" w="1" a="1">
+</p>
+<p t="4920" d="4500" w="1"><s ac="248">its</s><s t="480" ac="248"> adversaries</s><s t="1020" ac="248"> and</s><s t="1500" ac="248"> reddit&#39;s</s><s t="2040" ac="248"> CEO</s><s t="2399" ac="248"> is</s></p>
+<p t="7550" d="1870" w="1" a="1">
+</p>
+<p t="7560" d="4079" w="1"><s ac="248">standing</s><s t="359" ac="248"> by</s><s t="539" ac="248"> a</s><s t="780" ac="248"> plan</s><s t="900" ac="248"> to</s><s t="1200" ac="248"> charge</s><s t="1440" ac="248"> third</s></p>
+<p t="9410" d="2229" w="1" a="1">
+</p>
+<p t="9420" d="4740" w="1"><s ac="248">parties</s><s t="480" ac="248"> for</s><s t="719" ac="248"> access</s><s t="960" ac="248"> to</s><s t="1380" ac="248"> the</s><s t="1500" ac="248"> company&#39;s</s><s t="1799" ac="248"> data</s></p>
+<p t="11629" d="2531" w="1" a="1">
+</p>
+<p t="11639" d="5041" w="1"><s ac="248">good</s><s t="601" ac="248"> morning</s><s t="781" ac="248"> I&#39;m</s><s t="1141" ac="248"> Corva</s><s t="1561" ac="248"> Coleman</s><s t="1861" ac="248"> from</s><s t="2101" ac="248"> NPR</s></p>
+<p t="14150" d="2530" w="1" a="1">
+</p>
+<p t="14160" d="4080" w="1"><s ac="248">news</s><s t="180" ac="248"> and</s><s t="420" ac="248"> here</s><s t="660" ac="248"> are</s><s t="840" ac="248"> today&#39;s</s><s t="1019" ac="248"> top</s><s t="1320" ac="248"> stories</s><s t="1800" ac="248"> a</s></p>
+<p t="16670" d="1570" w="1" a="1">
+</p>
+<p t="16680" d="3240" w="1"><s ac="248">Federal</s><s t="179" ac="248"> grand</s><s t="420" ac="248"> jury</s><s t="720" ac="248"> has</s><s t="1019" ac="248"> indicted</s></p>
+<p t="18230" d="1690" w="1" a="1">
+</p>
+<p t="18240" d="4320" w="1"><s ac="248">Massachusetts</s><s t="299" ac="248"> Air</s><s t="900" ac="248"> National</s><s t="1140" ac="248"> Guardsman</s></p>
+<p t="19910" d="2650" w="1" a="1">
+</p>
+<p t="19920" d="4680" w="1"><s ac="248">Jack</s><s t="240" ac="171"> Tashara</s><s t="779" ac="217"> on</s><s t="1140" ac="248"> six</s><s t="1320" ac="248"> counts</s><s t="1800" ac="248"> he&#39;s</s><s t="2220" ac="248"> accused</s></p>
+<p t="22550" d="2050" w="1" a="1">
+</p>
+<p t="22560" d="4799" w="1"><s ac="248">of</s><s t="120" ac="248"> leaking</s><s t="600" ac="248"> Secret</s><s t="900" ac="248"> Pentagon</s><s t="1500" ac="248"> documents</s></p>
+<p t="24590" d="2769" w="1" a="1">
+</p>
+<p t="24600" d="4679" w="1"><s ac="248">online</s><s t="179" ac="248"> for</s><s t="660" ac="248"> months</s><s t="1019" ac="248"> Tashara</s><s t="1800" ac="248"> is</s><s t="2160" ac="248"> jailed</s><s t="2640" ac="248"> in</s></p>
+<p t="27349" d="1930" w="1" a="1">
+</p>
+<p t="27359" d="3840" w="1"><s ac="248">Massachusetts</s><s t="240" ac="248"> his</s><s t="901" ac="248"> lawyers</s><s t="1260" ac="248"> say</s><s t="1381" ac="248"> he</s><s t="1621" ac="248"> has</s><s t="1740" ac="248"> no</s></p>
+<p t="29269" d="1930" w="1" a="1">
+</p>
+<p t="29279" d="5280" w="1"><s ac="248">criminal</s><s t="361" ac="248"> history</s><s t="601" ac="248"> and</s><s t="1141" ac="248"> should</s><s t="1441" ac="248"> be</s><s t="1561" ac="248"> released</s></p>
+<p t="31189" d="3370" w="1" a="1">
+</p>
+<p t="31199" d="5880" w="1"><s ac="248">on</s><s t="181" ac="248"> bond</s><s t="621" ac="248"> prosecutors</s><s t="1621" ac="248"> disagree</s><s t="2221" ac="248"> they</s><s t="2821" ac="248"> say</s><s t="3061" ac="248"> he</s></p>
+<p t="34549" d="2530" w="1" a="1">
+</p>
+<p t="34559" d="4741" w="1"><s ac="248">could</s><s t="180" ac="248"> flee</s><s t="541" ac="248"> to</s><s t="721" ac="248"> another</s><s t="901" ac="248"> country</s><s t="1221" ac="248"> a</s><s t="2221" ac="246"> U.S</s></p>
+<p t="37069" d="2231" w="1" a="1">
+</p>
+<p t="37079" d="4681" w="1"><s ac="248">nuclear</s><s t="361" ac="248"> pad&#39;s</s><s t="901" ac="248"> rather</s><s t="1201" ac="247"> powered</s><s t="1681" ac="243"> submarine</s></p>
+<p t="39290" d="2470" w="1" a="1">
+</p>
+<p t="39300" d="4680" w="1"><s ac="248">has</s><s t="240" ac="248"> docked</s><s t="720" ac="248"> in</s><s t="840" ac="248"> South</s><s t="1079" ac="248"> Korea</s><s t="1500" ac="248"> this</s><s t="2040" ac="248"> comes</s><s t="2340" ac="248"> a</s></p>
+<p t="41750" d="2230" w="1" a="1">
+</p>
+<p t="41760" d="4139" w="1"><s ac="248">day</s><s t="180" ac="248"> after</s><s t="420" ac="248"> North</s><s t="900" ac="248"> Korea</s><s t="1319" ac="245"> testifier</s><s t="1979" ac="248"> two</s></p>
+<p t="43970" d="1929" w="1" a="1">
+</p>
+<p t="43980" d="4320" w="1"><s ac="248">ballistic</s><s t="419" ac="247"> missiles</s><s t="1020" ac="248"> and</s><s t="1380" ac="245"> bears</s><s t="1800" ac="248"> Anthony</s></p>
+<p t="45889" d="2411" w="1" a="1">
+</p>
+<p t="45899" d="4921" w="1"><s ac="240">Kuhn</s><s t="601" ac="248"> reports</s><s t="961" ac="244"> the</s><s t="1201" ac="248"> U.S</s><s t="1500" ac="248"> is</s><s t="1741" ac="248"> sending</s><s t="2160" ac="248"> more</s></p>
+<p t="48290" d="2530" w="1" a="1">
+</p>
+<p t="48300" d="5640" w="1"><s ac="248">military</s><s t="300" ac="248"> hardware</s><s t="840" ac="248"> to</s><s t="1259" ac="248"> Asia</s><s t="1680" ac="248"> to</s><s t="2099" ac="248"> reassure</s></p>
+<p t="50810" d="3130" w="1" a="1">
+</p>
+<p t="50820" d="4980" w="1"><s ac="248">its</s><s t="360" ac="248"> allies</s><s t="600" ac="248"> and</s><s t="1079" ac="248"> deter</s><s t="1620" ac="248"> its</s><s t="2160" ac="248"> adversaries</s><s t="2640" ac="248"> the</s></p>
+<p t="53930" d="1870" w="1" a="1">
+</p>
+<p t="53940" d="3660" w="1"><s ac="245">USS</s><s t="420" ac="248"> Michigan</s><s t="779" ac="248"> arrived</s><s t="1320" ac="248"> in</s><s t="1500" ac="248"> the</s><s t="1560" ac="248"> port</s><s t="1680" ac="248"> of</s></p>
+<p t="55790" d="1810" w="1" a="1">
+</p>
+<p t="55800" d="3660" w="1"><s ac="248">Busan</s><s t="480" ac="248"> Friday</s><s t="840" ac="248"> the</s><s t="1259" ac="242"> first</s><s t="1439" ac="245"> U.S</s></p>
+<p t="57590" d="1870" w="1" a="1">
+</p>
+<p t="57600" d="3299" w="1"><s ac="248">nuclear-powered</s><s t="720" ac="238"> guided</s><s t="1080" ac="248"> missile</s><s t="1439" ac="248"> sub</s><s t="1619" ac="248"> to</s></p>
+<p t="59450" d="1449" w="1" a="1">
+</p>
+<p t="59460" d="3660" w="1"><s ac="248">visit</s><s t="180" ac="248"> in</s><s t="480" ac="248"> six</s><s t="660" ac="248"> years</s></p>
+<p t="60889" d="2231" w="1" a="1">
+</p>
+<p t="60899" d="4021" w="1"><s ac="248">South</s><s t="601" ac="248"> Korea&#39;s</s><s t="1081" ac="248"> defense</s><s t="1381" ac="248"> Ministry</s><s t="1800" ac="248"> said</s><s t="2041" ac="248"> the</s></p>
+<p t="63110" d="1810" w="1" a="1">
+</p>
+<p t="63120" d="4319" w="1"><s ac="248">U.S</s><s t="300" ac="248"> and</s><s t="419" ac="248"> South</s><s t="599" ac="248"> Korean</s><s t="960" ac="248"> navies</s><s t="1320" ac="248"> will</s><s t="1560" ac="248"> conduct</s></p>
+<p t="64910" d="2529" w="1" a="1">
+</p>
+<p t="64920" d="5340" w="1"><s ac="248">joint</s><s t="360" ac="248"> drills</s><s t="720" ac="248"> during</s><s t="960" ac="248"> the</s><s t="1140" ac="248"> visit</s><s t="1320" ac="248"> the</s><s t="2100" ac="248"> vessel</s></p>
+<p t="67429" d="2831" w="1" a="1">
+</p>
+<p t="67439" d="4741" w="1"><s ac="248">is</s><s t="121" ac="248"> capable</s><s t="481" ac="248"> of</s><s t="720" ac="248"> carrying</s><s t="1081" ac="248"> over</s><s t="1261" ac="248"> 150</s><s t="2161" ac="248"> Tomahawk</s></p>
+<p t="70250" d="1930" w="1" a="1">
+</p>
+<p t="70260" d="4080" w="1"><s ac="248">cruise</s><s t="120" ac="248"> missiles</s><s t="719" ac="248"> it&#39;s</s><s t="1080" ac="248"> not</s><s t="1260" ac="248"> clear</s><s t="1440" ac="248"> if</s><s t="1620" ac="248"> it</s><s t="1800" ac="248"> is</s></p>
+<p t="72170" d="2170" w="1" a="1">
+</p>
+<p t="72180" d="4439" w="1"><s ac="248">carrying</s><s t="299" ac="248"> any</s><s t="540" ac="248"> on</s><s t="840" ac="248"> this</s><s t="960" ac="248"> trip</s><s t="1200" ac="248"> Washington</s></p>
+<p t="74330" d="2289" w="1" a="1">
+</p>
+<p t="74340" d="4200" w="1"><s ac="248">formalized</s><s t="900" ac="248"> its</s><s t="1139" ac="248"> commitment</s><s t="1440" ac="248"> to</s><s t="1740" ac="248"> temporarily</s></p>
+<p t="76609" d="1931" w="1" a="1">
+</p>
+<p t="76619" d="4441" w="1"><s ac="248">deploy</s><s t="481" ac="248"> such</s><s t="721" ac="248"> weapons</s><s t="1081" ac="248"> at</s><s t="1320" ac="248"> a</s><s t="1500" ac="248"> bilateral</s></p>
+<p t="78530" d="2530" w="1" a="1">
+</p>
+<p t="78540" d="4619" w="1"><s ac="248">Summit</s><s t="420" ac="248"> in</s><s t="600" ac="248"> Washington</s><s t="780" ac="248"> in</s><s t="1200" ac="248"> April</s><s t="1619" ac="248"> the</s><s t="2219" ac="234"> subs</s></p>
+<p t="81050" d="2109" w="1" a="1">
+</p>
+<p t="81060" d="4260" w="1"><s ac="248">visit</s><s t="180" ac="247"> also</s><s t="660" ac="248"> follows</s><s t="1080" ac="248"> North</s><s t="1379" ac="248"> Korea&#39;s</s><s t="1860" ac="248"> failed</s></p>
+<p t="83149" d="2171" w="1" a="1">
+</p>
+<p t="83159" d="4861" w="1"><s ac="248">attempt</s><s t="421" ac="248"> last</s><s t="661" ac="248"> month</s><s t="960" ac="248"> to</s><s t="1500" ac="248"> launch</s><s t="1741" ac="248"> his</s><s t="1921" ac="248"> first</s></p>
+<p t="85310" d="2710" w="1" a="1">
+</p>
+<p t="85320" d="4920" w="1"><s ac="246">military</s><s t="360" ac="248"> reconnaissance</s><s t="1200" ac="248"> satellite</s><s t="1860" ac="248"> South</s></p>
+<p t="88010" d="2230" w="1" a="1">
+</p>
+<p t="88020" d="4139" w="1"><s ac="248">Korea</s><s t="360" ac="248"> said</s><s t="599" ac="248"> Friday</s><s t="840" ac="248"> it</s><s t="1260" ac="248"> had</s><s t="1440" ac="248"> salvaged</s><s t="1980" ac="248"> what</s></p>
+<p t="90230" d="1929" w="1" a="1">
+</p>
+<p t="90240" d="5280" w="1"><s ac="248">appears</s><s t="360" ac="248"> to</s><s t="540" ac="248"> be</s><s t="600" ac="248"> the</s><s t="900" ac="248"> Rocket&#39;s</s><s t="1379" ac="248"> second</s><s t="1440" ac="247"> stage</s></p>
+<p t="92149" d="3371" w="1" a="1">
+</p>
+<p t="92159" d="6000" w="1"><s ac="248">from</s><s t="301" ac="248"> the</s><s t="481" ac="248"> sea</s><s t="780" ac="248"> Anthony</s><s t="1320" ac="248"> Kuhn</s><s t="1981" ac="248"> NPR</s><s t="2460" ac="248"> news</s><s t="2701" ac="248"> Seoul</s></p>
+<p t="95510" d="2649" w="1" a="1">
+</p>
+<p t="95520" d="4500" w="1"><s ac="248">U.N</s><s t="480" ac="248"> Secretary</s><s t="900" ac="248"> General</s><s t="1200" ac="248"> Antonio</s><s t="1639" ac="241"> guterres&#39;s</s></p>
+<p t="98149" d="1871" w="1" a="1">
+</p>
+<p t="98159" d="3960" w="1"><s ac="240">warning</s><s t="301" ac="248"> of</s><s t="420" ac="246"> disaster</s><s t="780" ac="242"> unless</s><s t="1500" ac="248"> World</s></p>
+<p t="100010" d="2109" w="1" a="1">
+</p>
+<p t="100020" d="4739" w="1"><s ac="248">governments</s><s t="599" ac="248"> work</s><s t="840" ac="248"> very</s><s t="1200" ac="247"> hard</s><s t="1500" ac="248"> to</s><s t="1919" ac="248"> reduce</s></p>
+<p t="102109" d="2650" w="1" a="1">
+</p>
+<p t="102119" d="4921" w="1"><s ac="248">global</s><s t="721" ac="248"> warming</s><s t="1140" ac="248"> current</s><s t="1741" ac="248"> policies</s><s t="2460" ac="248"> are</s></p>
+<p t="104749" d="2291" w="1" a="1">
+</p>
+<p t="104759" d="5161" w="1"><s ac="248">taking</s><s t="180" ac="246"> dwell</s><s t="601" ac="248"> to</s><s t="841" ac="243"> a</s><s t="1021" ac="246"> 2.8</s><s t="1621" ac="248"> degree</s><s t="1981" ac="248"> temperature</s></p>
+<p t="107030" d="2890" w="1" a="1">
+</p>
+<p t="107040" d="5280" w="1"><s ac="241">rise</s><s t="539" ac="248"> by</s><s t="780" ac="243"> the</s><s t="960" ac="248"> end</s><s t="1079" ac="248"> of</s><s t="1259" ac="225"> the</s><s t="1439" ac="237"> century</s></p>
+<p t="109910" d="2410" w="1" a="1">
+</p>
+<p t="109920" d="3600" w="1"><s ac="172">death</s><s t="659" ac="241"> spells</s><s t="1140" ac="239"> catastrophe</s></p>
+<p t="112310" d="1210" w="1" a="1">
+</p>
+<p t="112320" d="4439" w="1"><s ac="248">yet</s></p>
+<p t="113510" d="3249" w="1" a="1">
+</p>
+<p t="113520" d="5520" w="1"><s ac="248">the</s><s t="660" ac="248"> collective</s><s t="1080" ac="248"> response</s><s t="1620" ac="248"> remains</s><s t="2400" ac="248"> pitiful</s></p>
+<p t="116749" d="2291" w="1" a="1">
+</p>
+<p t="116759" d="4441" w="1"><s ac="248">the</s><s t="421" ac="202"> U.N</s><s t="661" ac="248"> Chief</s><s t="961" ac="248"> says</s><s t="1320" ac="248"> a</s><s t="1561" ac="248"> lower</s><s t="1680" ac="248"> rise</s><s t="2161" ac="248"> in</s></p>
+<p t="119030" d="2170" w="1" a="1">
+</p>
+<p t="119040" d="4740" w="1"><s ac="248">global</s><s t="420" ac="248"> temperatures</s><s t="719" ac="248"> is</s><s t="1140" ac="248"> still</s><s t="1259" ac="245"> possible</s><s t="1680" ac="248"> if</s></p>
+<p t="121190" d="2590" w="1" a="1">
+</p>
+<p t="121200" d="5640" w="1"><s ac="248">governments</s><s t="599" ac="248"> speed</s><s t="959" ac="248"> up</s><s t="1320" ac="248"> their</s><s t="1739" ac="248"> climate</s><s t="2160" ac="248"> plans</s></p>
+<p t="123770" d="3070" w="1" a="1">
+</p>
+<p t="123780" d="5160" w="1"><s ac="248">he</s><s t="600" ac="248"> also</s><s t="900" ac="248"> told</s><s t="1140" ac="248"> the</s><s t="1379" ac="248"> fossil</s><s t="1799" ac="248"> fuel</s><s t="2100" ac="248"> industry</s><s t="2580" ac="248"> it</s></p>
+<p t="126830" d="2110" w="1" a="1">
+</p>
+<p t="126840" d="3960" w="1"><s ac="248">must</s><s t="239" ac="248"> transform</s><s t="900" ac="248"> away</s><s t="1199" ac="248"> from</s><s t="1619" ac="248"> a</s><s t="1860" ac="248"> product</s></p>
+<p t="128930" d="1870" w="1" a="1">
+</p>
+<p t="128940" d="3000" w="1"><s ac="248">that&#39;s</s><s t="539" ac="248"> not</s><s t="840" ac="248"> compatible</s><s t="1319" ac="248"> with</s><s t="1620" ac="248"> human</s></p>
+<p t="130790" d="1150" w="1" a="1">
+</p>
+<p t="130800" d="4019" w="1"><s ac="248">survival</s></p>
+<p t="131930" d="2889" w="1" a="1">
+</p>
+<p t="131940" d="4799" w="1"><s ac="248">the</s><s t="600" ac="248"> CEO</s><s t="1019" ac="248"> of</s><s t="1260" ac="248"> social</s><s t="1439" ac="248"> media</s><s t="1860" ac="248"> site</s><s t="2159" ac="248"> Reddit</s><s t="2460" ac="248"> is</s></p>
+<p t="134809" d="1930" w="1" a="1">
+</p>
+<p t="134819" d="4201" w="1"><s ac="248">defending</s><s t="420" ac="248"> a</s><s t="601" ac="248"> new</s><s t="721" ac="248"> plan</s><s t="961" ac="248"> to</s><s t="1321" ac="248"> charge</s><s t="1560" ac="248"> third</s></p>
+<p t="136729" d="2291" w="1" a="1">
+</p>
+<p t="136739" d="4981" w="1"><s ac="248">parties</s><s t="481" ac="248"> for</s><s t="901" ac="248"> access</s><s t="1080" ac="248"> to</s><s t="1381" ac="248"> the</s><s t="1561" ac="248"> company&#39;s</s><s t="1860" ac="248"> data</s></p>
+<p t="139010" d="2710" w="1" a="1">
+</p>
+<p t="139020" d="4740" w="1"><s ac="248">as</s><s t="540" ac="248"> NPR&#39;s</s><s t="1079" ac="248"> Bobby</s><s t="1260" ac="248"> Allen</s><s t="1740" ac="248"> reports</s><s t="2219" ac="248"> the</s><s t="2520" ac="248"> move</s></p>
+<p t="141710" d="2050" w="1" a="1">
+</p>
+<p t="141720" d="4260" w="1"><s ac="248">prompted</s><s t="540" ac="248"> a</s><s t="720" ac="248"> two-day</s><s t="1019" ac="248"> boycott</s><s t="1560" ac="248"> on</s><s t="1860" ac="248"> the</s></p>
+<p t="143750" d="2230" w="1" a="1">
+</p>
+<p t="143760" d="4680" w="1"><s ac="248">popular</s><s t="180" ac="248"> message</s><s t="600" ac="248"> board</s><s t="1020" ac="248"> with</s><s t="1680" ac="248"> thousands</s><s t="2100" ac="248"> of</s></p>
+<p t="145970" d="2470" w="1" a="1">
+</p>
+<p t="145980" d="4500" w="1"><s ac="248">discussion</s><s t="540" ac="248"> forums</s><s t="960" ac="248"> going</s><s t="1200" ac="248"> dark</s><s t="1560" ac="248"> in</s><s t="2100" ac="248"> protest</s></p>
+<p t="148430" d="2050" w="1" a="1">
+</p>
+<p t="148440" d="4379" w="1"><s ac="248">reddit&#39;s</s><s t="900" ac="248"> chief</s><s t="1080" ac="248"> executive</s><s t="1439" ac="248"> Steve</s><s t="1620" ac="248"> Huffman</s></p>
+<p t="150470" d="2349" w="1" a="1">
+</p>
+<p t="150480" d="4560" w="1"><s ac="248">tells</s><s t="300" ac="248"> NPR</s><s t="720" ac="248"> quote</s><s t="1140" ac="248"> it&#39;s</s><s t="1440" ac="248"> time</s><s t="1680" ac="248"> we</s><s t="1860" ac="248"> grow</s><s t="1979" ac="248"> up</s><s t="2160" ac="248"> and</s></p>
+<p t="152809" d="2231" w="1" a="1">
+</p>
+<p t="152819" d="3841" w="1"><s ac="248">behave</s><s t="301" ac="248"> like</s><s t="541" ac="248"> an</s><s t="841" ac="248"> adult</s><s t="961" ac="248"> company</s><s t="1321" ac="248"> Huffman</s><s t="2041" ac="248"> is</s></p>
+<p t="155030" d="1630" w="1" a="1">
+</p>
+<p t="155040" d="3480" w="1"><s ac="248">referring</s><s t="300" ac="248"> to</s><s t="419" ac="248"> his</s><s t="600" ac="248"> plan</s><s t="779" ac="248"> to</s><s t="1020" ac="248"> start</s><s t="1140" ac="248"> charging</s></p>
+<p t="156650" d="1870" w="1" a="1">
+</p>
+<p t="156660" d="4079" w="1"><s ac="248">third-party</s><s t="540" ac="248"> Developers</s><s t="960" ac="248"> for</s><s t="1320" ac="248"> access</s><s t="1500" ac="248"> to</s></p>
+<p t="158510" d="2229" w="1" a="1">
+</p>
+<p t="158520" d="4260" w="1"><s ac="248">Reddit</s><s t="120" ac="248"> data</s><s t="780" ac="248"> which</s><s t="1320" ac="248"> has</s><s t="1620" ac="248"> long</s><s t="1799" ac="248"> been</s><s t="1980" ac="248"> free</s></p>
+<p t="160729" d="2051" w="1" a="1">
+</p>
+<p t="160739" d="4500" w="1"><s ac="248">we&#39;ve</s><s t="601" ac="248"> been</s><s t="720" ac="248"> subsidizing</s><s t="1321" ac="248"> other</s><s t="1500" ac="248"> businesses</s></p>
+<p t="162770" d="2469" w="1" a="1">
+</p>
+<p t="162780" d="5340" w="1"><s ac="248">for</s><s t="239" ac="248"> free</s><s t="360" ac="248"> for</s><s t="720" ac="248"> a</s><s t="840" ac="248"> long</s><s t="959" ac="248"> time</s><s t="1140" ac="248"> we&#39;re</s><s t="1980" ac="248"> stopping</s></p>
+<p t="165229" d="2891" w="1" a="1">
+</p>
+<p t="165239" d="4500" w="1"><s ac="248">that</s><s t="181" ac="248"> that</s><s t="661" ac="248"> is</s><s t="901" ac="248"> not</s><s t="1080" ac="248"> a</s><s t="1321" ac="248"> negotiable</s><s t="1741" ac="248"> point</s><s t="2101" ac="248"> you</s></p>
+<p t="168110" d="1629" w="1" a="1">
+</p>
+<p t="168120" d="3839" w="1"><s ac="248">know</s><s t="180" ac="248"> it&#39;s</s><s t="540" ac="248"> just</s><s t="720" ac="247"> we&#39;re</s><s t="899" ac="248"> simply</s><s t="1259" ac="248"> in</s><s t="1440" ac="248"> an</s></p>
+<p t="169729" d="2230" w="1" a="1">
+</p>
+<p t="169739" d="4201" w="1"><s ac="248">unsustainable</s><s t="601" ac="248"> position</s><s t="901" ac="248"> and</s><s t="1681" ac="248"> so</s><s t="1801" ac="248"> we</s><s t="1981" ac="248"> need</s><s t="2101" ac="248"> to</s></p>
+<p t="171949" d="1991" w="1" a="1">
+</p>
+<p t="171959" d="3601" w="1"><s ac="248">get</s><s t="121" ac="248"> into</s><s t="301" ac="248"> a</s><s t="601" ac="248"> sustainable</s><s t="1021" ac="248"> situation</s><s t="1560" ac="248"> later</s></p>
+<p t="173930" d="1630" w="1" a="1">
+</p>
+<p t="173940" d="3780" w="1"><s ac="248">this</s><s t="240" ac="248"> year</s><s t="360" ac="248"> Retta</s><s t="780" ac="248"> is</s><s t="900" ac="248"> expected</s><s t="1200" ac="248"> to</s><s t="1320" ac="248"> list</s><s t="1439" ac="248"> it</s></p>
+<p t="175550" d="2170" w="1" a="1">
+</p>
+<p t="175560" d="4259" w="1"><s ac="248">shares</s><s t="360" ac="248"> on</s><s t="539" ac="248"> public</s><s t="720" ac="248"> stock</s><s t="1080" ac="248"> markets</s><s t="1560" ac="248"> Huffman</s></p>
+<p t="177710" d="2109" w="1" a="1">
+</p>
+<p t="177720" d="4320" w="1"><s ac="248">says</s><s t="299" ac="248"> the</s><s t="360" ac="248"> new</s><s t="540" ac="248"> fees</s><s t="840" ac="248"> are</s><s t="1140" ac="248"> not</s><s t="1379" ac="248"> a</s><s t="1620" ac="248"> message</s><s t="1739" ac="248"> to</s></p>
+<p t="179809" d="2231" w="1" a="1">
+</p>
+<p t="179819" d="4081" w="1"><s ac="248">investors</s><s t="661" ac="248"> but</s><s t="1261" ac="248"> rather</s><s t="1500" ac="248"> push</s><s t="1741" ac="176"> back</s><s t="1981" ac="248"> against</s></p>
+<p t="182030" d="1870" w="1" a="1">
+</p>
+<p t="182040" d="3360" w="1"><s ac="248">AI</s><s t="540" ac="248"> companies</s><s t="960" ac="248"> that</s><s t="1140" ac="248"> have</s><s t="1260" ac="248"> been</s><s t="1380" ac="248"> scraping</s></p>
+<p t="183890" d="1510" w="1" a="1">
+</p>
+<p t="183900" d="3720" w="1"><s ac="248">conversations</s><s t="419" ac="248"> on</s><s t="720" ac="248"> Reddit</s><s t="900" ac="248"> to</s><s t="1320" ac="248"> teach</s></p>
+<p t="185390" d="2230" w="1" a="1">
+</p>
+<p t="185400" d="4919" w="1"><s ac="248">language</s><s t="240" ac="247"> Bots</s><s t="660" ac="248"> how</s><s t="1080" ac="248"> to</s><s t="1260" ac="248"> communicate</s><s t="1680" ac="248"> Bobby</s></p>
+<p t="187610" d="2709" w="1" a="1">
+</p>
+<p t="187620" d="6140" w="1"><s ac="248">Allen</s><s t="420" ac="248"> NPR</s><s t="960" ac="248"> news</s><s t="1199" ac="248"> and</s><s t="1920" ac="248"> you&#39;re</s><s t="2100" ac="248"> listening</s><s t="2460" ac="248"> to</s></p>
+<p t="190309" d="3451" w="1" a="1">
+</p>
+<p t="190319" d="3441" w="1"><s ac="248">NPR</s><s t="661" ac="248"> news</s><s t="901" ac="248"> from</s><s t="1321" ac="220"> Washington</s></p>
+</body>
+</timedtext>
