@@ -6,6 +6,7 @@ I'm gonna be cooking up some heat
 - probability assignment, located in HW1/probability_assignment.ipynb
 - Ensemble learning, located in HW2/predict-ship-type.ipynb
 - Midterm regression assignment using SGD, located in MidtermP1/take-at-home.ipynb
+- A wavenet assignment located in wavenet/wavenet.ipynb
 
 ## Project milestones completed
 - Milestone 1, downloading a library of youtube videos and uploading to Google Drive, located in Project/
@@ -17,3 +18,7 @@ I'm gonna be cooking up some heat
     - Firstly, I ripped frames from the videos as jpg files using a bash script calling ffmpeg, located in Project/video_indexing/get_frames.sh
 
 	- Next, for the rest of the milestone, I put the code into a single ipynb for clarity of each step of the process. It is located at Project/video_indexing/video_indexing.ipynb . I used Pytorch to create the autoencoder, and I used postgresql with pgvector to store the embeddings of the frames, and have included an image search query where I give it an input image from the dataset, and using the <-> operator from pgvector, it gives me back the embeddings of the 10 most similar frames by taking the euclidan distances between the vectors containing the embedded images. I then took these embeddings and decoded them to reveal the similarity. This query and its results can be seen towards the bottom of the ipynb file.
+
+- Milestone 3, text indexing
+
+- Milestone 4, fusion of image and text embeddings
