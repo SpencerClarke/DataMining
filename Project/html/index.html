@@ -1,14 +1,33 @@
 <!DOCTYPE html>
 <html>
+<head>
+	<title>ML project</title>
+<style>
+	* {
+		font-family: "Helvetica";
+	}
+	body {
+		width: 50%;
+	}
+	button {
+		height: 30px;
+		width: 70px;
+		font-size: 16px;
+	}
+	input {
+		height: 30px;
+		width: 400px;
+		font-size: 16px;
+	}
+</style>
+</head>
     <body>
         <h1>Video queries</h1>
 	<h2>This is a college machine learning project. If you enter a query and submit, it will give you the 3 most relevant videos to that query out of 50 taken from the npr news youtube channel. Some queries that show obvious correlation are "woman in a purple sweater", "pacific ocean", "student debt", and "israel" (especially the topmost result)
 		<br><br><br>
 	<p1 id="error_message"></p1>
-        <form>
           Query: <input type="text" id="query"><br>
-          <input type="button" onclick="get_videos()" value="Submit">
-        </form>
+	  <button onclick="get_videos()" height=50 width=100>Submit</button>
         <div id="videos"></div>
     </body>
     <script>
