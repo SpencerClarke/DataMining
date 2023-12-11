@@ -26,3 +26,6 @@ I'm gonna be cooking up some heat
 - Milestone 5, graphical interface 
     - So, since milestone 4 was done on a huggingface dataset of static images, I re-trained it on actual video frames and captions to create a new dual-encoder, which can be seen in the milestone 4 notebook in this branch now renamed to Project/Milestone_4/video_retrieval.ipynb. I did it in batches so there are keyboard interrupts and other messy things in there. For the frontend of this app, I did it in HTML and have an Apache web server serving the HTML frontend, and it uses a REST API that I wrote in python with flask. This can be seen in Project/html. The only data used in the final app was the videos and captions in Project/videos. Hopefully, the application should be hosted and available at this link (my home server's hostname).
     [http://thinkcenter.ddns.me/](http://thinkcenter.ddns.me/)
+
+- Milestone 6, cleaing up the code base (not an official milestone)
+    - So, throughout these milestones, I have made a complete mess of this repository. This branch is basically spring cleaning. I have merged most of the milestones into a single notebook, Model_Preparation/video_retrieval.ipynb.
