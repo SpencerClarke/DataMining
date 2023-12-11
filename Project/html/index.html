@@ -65,15 +65,6 @@
             });
             return response.json();
         }
-	function reload()
-	{
-		videos = document.getElementsByTagName("video");
-		for(video of videos)
-		{
-			content = video.innerHTML;
-			video.innerHTML = content;
-		}
-	}
         function get_videos()
         {  
             document.getElementById("videos").innerHTML = "";
@@ -89,15 +80,13 @@
                     vid.setAttribute("width", 420);
                     vid.setAttribute("height", 320);
                     src.setAttribute("type", "video/mp4");
-                    src.setAttribute("src", "http://thinkcenter.ddns.me/videos/" + response[0][i] + "#t=0.1");
+                    src.setAttribute("src", "http://thinkcenter.ddns.me/videos/" + response[0][i]);
                     vid.appendChild(src);
                     document.getElementById("videos").appendChild(vid);
 	            document.getElementById("videos").appendChild(br);
                 }
-		reload();
             });
         }
        	 
     </script>
 </html>
-msbean@Thi
