@@ -28,4 +28,4 @@ I'm gonna be cooking up some heat
     [http://thinkcenter.ddns.me/](http://thinkcenter.ddns.me/)
 
 - Milestone 6, cleaing up the code base (not an official milestone)
-    - So, throughout these milestones, I have made a complete mess of this repository. This branch is basically spring cleaning. I have merged most of the milestones into a single notebook, Model_Preparation/video_retrieval.ipynb.
+    - So, throughout these milestones, I have made a complete mess of this repository. This branch is basically spring cleaning. I have merged most of the milestones into a single notebook, Project/Model_Preparation/video_retrieval.ipynb.
