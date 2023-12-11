@@ -28,8 +28,6 @@ print("Loading dual encoder")
 class CNN2(torch.nn.Module):
     def __init__(self):
         super(CNN2, self).__init__()
-        #These will project the image and text encodings to be 1875-dimensional vectors
-        #So that we can take the dot product between image and text encodings
         self.project_image = torch.nn.Sequential(
             torch.nn.Flatten(1, -1),
             torch.nn.Linear(1875, 1875),
@@ -46,15 +44,11 @@ class CNN2(torch.nn.Module):
             torch.nn.Linear(1875, 1875)
         )
          
-    #We will train the network to predict its own input by compressing and then decompressing it
     def forward(self, word_encodings, image_encodings):
         word_encodings = self.project_text(word_encodings)
         word_encodings = torch.nn.functional.normalize(word_encodings)
         image_encodings = self.project_image(image_encodings)
         image_encodings = torch.nn.functional.normalize(image_encodings)
-        #The dot similarity is the dot product of a word encodnig and an image encoding
-        #This works because the dot product acts a measure for similarity
-        #And this matrix multiplication will get the dot product of every row in A with every row in B
         return word_encodings, image_encodings
     
 cnn2 = CNN2()
